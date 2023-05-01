@@ -1,0 +1,2781 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv source-info-name="tvguide.co.uk" generator-info-name="mc2xml" generator-info-url="mailto:mc2xml@gmail.com">
+	<channel id="I101.2366.tvguide.co.uk">
+		<display-name>101 BBC One London HD</display-name>
+		<display-name>101</display-name>
+		<display-name>BBC One London HD</display-name>
+		<icon src="https://images.tvguide.co.uk/pa/0x80/d6e8eaaf-83bd-5b71-9762-c7c5bfa2fcda.png" />
+	</channel>
+	<channel id="I982.1558.tvguide.co.uk">
+		<display-name>982 BBC Red Button 1</display-name>
+		<display-name>982</display-name>
+		<display-name>BBC Red Button 1</display-name>
+		<icon src="https://images.tvguide.co.uk/pa/0x80/7cbb70af-dbca-51cc-85e2-18140b279191.png" />
+	</channel>
+	<programme start="20230501140000 +0100" stop="20230501144500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Countryfile Spring Diaries</title>
+		<sub-title lang="en">Countryfile Diaries</sub-title>
+		<desc lang="en">Margherita Taylor sees the injuries that plastic litter can cause to British sea life, and Paul Martin shares tips to keep viewers&apos; summer pots in flower all season long</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/d5c4d732-a51e-5125-aa9f-99bcbae7c662.jpg" />
+		<episode-num system="common">S04E02</episode-num>
+		<episode-num system="tvguide.co.uk_progid">2366712</episode-num>
+		<episode-num system="xmltv_ns">3.1.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230501144500 +0100" stop="20230501154500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Escape to the Country</title>
+		<sub-title lang="en">Monmouthshire</sub-title>
+		<desc lang="en">Sonali Shah helps a London couple to find a new home in the Monmouthshire countryside, and also takes her buyers to visit a market garden using a novel `no dig&apos; growing method</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/8e8e072c-9ab7-5e71-ab56-853b55c65893.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5096904</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>5.9/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230501154500 +0100" stop="20230501163000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">The Bidding Room</title>
+		<desc lang="en">Nigel Havers welcomes five more sellers to the Bidding Room, where they try to sell items to five professional dealers who are on the lookout for interesting pieces, with help from expert Simon Bower. Here, the dealers bid against each other on a vintage pub game, a small and mysterious statue and an apothecary set complete with tiny weights</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/3e05cb75-0c47-5bbb-8271-dfefad34671f.jpg" />
+		<episode-num system="common">S02E19</episode-num>
+		<episode-num system="tvguide.co.uk_progid">3702525</episode-num>
+		<episode-num system="xmltv_ns">1.18.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>4.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230501163000 +0100" stop="20230501171500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Unbeatable</title>
+		<desc lang="en">Over three rounds, contestants vie to find the single `unbeatable&apos; answer and streak ahead of the rest to make the final where they can win a cash prize. General knowledge quiz, hosted by Jason Manford</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/a08910e7-56c1-57db-bd65-93df7d40b7f0.jpg" />
+		<episode-num system="common">S03E27</episode-num>
+		<episode-num system="tvguide.co.uk_progid">4160524</episode-num>
+		<episode-num system="xmltv_ns">2.26.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>3.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230501171500 +0100" stop="20230501180000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Pointless</title>
+		<desc lang="en">Sally Lindsay joins Alexander Armstrong to co-host the quiz, in which contestants try to score the fewest points possible by giving the most obscure answers</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/ec37bcf4-30fd-5ae9-a806-b36f3521aba3.jpg" />
+		<episode-num system="common">S28E02</episode-num>
+		<episode-num system="tvguide.co.uk_progid">1259078</episode-num>
+		<episode-num system="xmltv_ns">27.1.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230501180000 +0100" stop="20230501182000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC News at Six; Weather</title>
+		<desc lang="en">The latest headlines</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/c10d0d61-fd16-5000-b4d0-0e1ebcd038a6.jpg" />
+		<episode-num system="tvguide.co.uk_progid">2221898</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20230501182000 +0100" stop="20230501182500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC London News; Weather</title>
+		<sub-title lang="en">01/05/2023 - Evening</sub-title>
+		<icon src="https://images.tvguide.co.uk/pa/640/4acbf6e0-62b1-508f-af6d-a08cb2d202cc.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5088261</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230501182500 +0100" stop="20230501183000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Party Election Broadcast</title>
+		<sub-title lang="en">01/05/2023 - Labour Party</sub-title>
+		<desc lang="en">By the Labour Party</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/99827374-7abd-561c-a61b-3a23e5b2c591.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5090857</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>4.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230501183000 +0100" stop="20230501193000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">The One Show</title>
+		<sub-title lang="en">01/05/2023</sub-title>
+		<desc lang="en">Alex Jones and Jermaine Jenas launch Coronation week with a one-hour special looking at the work being done across the nations and communities of the UK in the run-up to Saturday&apos;s ceremony</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/0306254b-2b01-5845-8c5e-fcb0873f7274.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5089150</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>4.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230501193000 +0100" stop="20230501200000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">EastEnders</title>
+		<sub-title lang="en">03/05/2023</sub-title>
+		<desc lang="en">Karen and Sharon are on edge as they wait to find out how Keanu is. Lola throws Billy a surprise birthday party but he can&apos;t bring himself to feel happy and Sonia is getting increasingly fed up with Reiss planning his coronation party</desc>
+		<category lang="en">Soap</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/af38835d-9e54-5b53-8010-2818485cbc02.jpg" />
+		<episode-num system="tvguide.co.uk_progid">255864</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>5.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230501200000 +0100" stop="20230501210000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">MasterChef</title>
+		<desc lang="en">The fifth and final week of heats gets under way, with another nine contestants aiming to impress Gregg Wallace and John Torode in the opening Audition Round. John and Gregg don&apos;t witness them cook in the MasterChef kitchen, but taste each dish in the Tasting Room and judge each contestant&apos;s food solely on the plate that is put in front of them. After tasting all nine plates, they pick their three favourite dishes, giving those cooks a well-earned MasterChef apron and immunity from cooking in the next round</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/20a15234-e929-52ed-91b4-3906df8212ff.jpg" />
+		<episode-num system="common">S19E13</episode-num>
+		<episode-num system="tvguide.co.uk_progid">697690</episode-num>
+		<episode-num system="xmltv_ns">18.12.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>7.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230501210000 +0100" stop="20230501220000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Blue Lights</title>
+		<sub-title lang="en">Love the One You&apos;re With</sub-title>
+		<desc lang="en">In the aftermath of the shooting, the recruits are determined the McIntyres will pay for what they have done. Stevie goes to arrest the MI5 operatives - but Joseph orders Jonty to let them go free. Tina demands that James tells Mo his dark secret, and Grace accepts that she might have to break her promise to Angela</desc>
+		<category lang="en">Drama</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/263a35a6-c3af-58b0-8cf2-063d33d6dded.jpg" />
+		<episode-num system="common">S01E06</episode-num>
+		<episode-num system="tvguide.co.uk_progid">5069884</episode-num>
+		<episode-num system="xmltv_ns">0.5.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<premiere />
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>7.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230501220000 +0100" stop="20230501222000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC News at Ten</title>
+		<sub-title lang="en">01/05/2023</sub-title>
+		<desc lang="en">A round-up of today&apos;s headlines</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/9470ce28-fbee-51b0-81c6-9ad7db2dd39c.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091194</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230501222000 +0100" stop="20230501223000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC London News; Weather</title>
+		<sub-title lang="en">01/05/2023 - Late</sub-title>
+		<icon src="https://images.tvguide.co.uk/pa/640/4acbf6e0-62b1-508f-af6d-a08cb2d202cc.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5088263</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230501223000 +0100" stop="20230501231500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Have I Got a Bit More News for You</title>
+		<desc lang="en">Extended version of the quiz, as Alexander Armstrong hosts, with comedian Maisie Adam and journalist Helen Lewis joining in the fun, alongside regular team captains Ian Hislop and Paul Merton</desc>
+		<category lang="en">Comedy</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/5cf58c43-ab05-50b1-a2b3-f84c1a33b398.jpg" />
+		<episode-num system="common">S65E04</episode-num>
+		<episode-num system="tvguide.co.uk_progid">541479</episode-num>
+		<episode-num system="xmltv_ns">64.3.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230501231500 +0100" stop="20230502001500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Project Icon: The UK&apos;s Next Music Star</title>
+		<desc lang="en">The three finalists each perform one of their own numbers and a live duet with Jason Derulo at an iconic Manchester music venue. Each singer will get time in the recording studios with Becky Hill before taking to the stage to perform in front of a live audience and the judges for the chance to win a record deal, a collaboration with Jason Derulo, and a performance at Radio 1&apos;s Big Weekend</desc>
+		<category lang="en">Music</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/edb68b5a-f053-506d-8f14-f3593a248226.jpg" />
+		<episode-num system="common">S01E06</episode-num>
+		<episode-num system="tvguide.co.uk_progid">5054989</episode-num>
+		<episode-num system="xmltv_ns">0.5.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<last-chance />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>3.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230502001500 +0100" stop="20230502002000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Weather for the Week Ahead</title>
+		<sub-title lang="en">01/05/2023</sub-title>
+		<desc lang="en">A look ahead to the latest forecast</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/0531f0df-93fc-5de5-aa7d-4961ec7bdbf7.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091195</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230502002000 +0100" stop="20230502060000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC News</title>
+		<sub-title lang="en">01/05/2023</sub-title>
+		<icon src="https://images.tvguide.co.uk/pa/640/281dc9b3-5852-544f-9c05-8c9366d863b2.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091196</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230502060000 +0100" stop="20230502091500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Breakfast</title>
+		<sub-title lang="en">02/05/2023</sub-title>
+		<desc lang="en">A round-up of national and international news, plus current affairs, arts and entertainment, and weather</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/0e3fb33b-2502-5bed-b987-256cebe0ecf7.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091197</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>2.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230502091500 +0100" stop="20230502100000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Morning Live</title>
+		<sub-title lang="en">02/05/2023</sub-title>
+		<desc lang="en">Weekday magazine show featuring a mixture of topical chat and expert advice</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/92028e48-0554-57fc-8cf6-871ffcd95a2f.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091198</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>3.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230502100000 +0100" stop="20230502104500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Scam Interceptors</title>
+		<desc lang="en">Rav Wilding joins forces with ethical hackers to hunt down cyber criminals. Using the same remote-access technology that criminals use to scam their victims, the team hacks the hackers and monitors their operation</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/eb3afb18-bac5-59f0-9ded-56d63a7e811c.jpg" />
+		<episode-num system="common">S02E07</episode-num>
+		<episode-num system="tvguide.co.uk_progid">4580156</episode-num>
+		<episode-num system="xmltv_ns">1.6.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>7.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230502104500 +0100" stop="20230502111500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Maximum Security</title>
+		<desc lang="en">Dom Littlewood rides shotgun to a train driver, fulfilling a childhood dream to find out how the railways are kept safe. Jenny Donaldson has advice on distraction burglaries</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/6081d239-eac7-591f-918a-d95213bb50c6.jpg" />
+		<episode-num system="common">S01E07</episode-num>
+		<episode-num system="tvguide.co.uk_progid">4781846</episode-num>
+		<episode-num system="xmltv_ns">0.6.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230502111500 +0100" stop="20230502121500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Homes Under the Hammer</title>
+		<desc lang="en">A couple of semis in Lower Gornal in the West Midlands and Gillingham in Kent are all sold under the hammer, as is a large commercial building in Ebbw Vale in south-east Wales. Martin Roberts, Dion Dublin and Martel Maxwell follow progress as the developers get to work</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/2bd8bf68-940b-51b8-99bc-61961f65d23f.jpg" />
+		<episode-num system="common">S24E36</episode-num>
+		<episode-num system="tvguide.co.uk_progid">533529</episode-num>
+		<episode-num system="xmltv_ns">23.35.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>4.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230502121500 +0100" stop="20230502130000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Bargain Hunt</title>
+		<sub-title lang="en">Dorking 15</sub-title>
+		<desc lang="en">Caroline Hawley and Ochuko Ojiri help two teams search for items in the antiques shops of Dorking, Surrey, while presenter Eric Knowles learns how stained glass windows are restored and repaired</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/c46580d2-c636-5130-8af9-820e08b5f1c1.jpg" />
+		<episode-num system="common">S56E16</episode-num>
+		<episode-num system="tvguide.co.uk_progid">10126</episode-num>
+		<episode-num system="xmltv_ns">55.15.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>3.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230502130000 +0100" stop="20230502133000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC News at One; Weather</title>
+		<sub-title lang="en">02/05/2023</sub-title>
+		<desc lang="en">A round-up of the latest headlines</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/c8241e9a-e74b-5c87-9e72-27441b564c5e.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091199</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20230502133000 +0100" stop="20230502134500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC London News; Weather</title>
+		<sub-title lang="en">02/05/2023 - Lunch</sub-title>
+		<icon src="https://images.tvguide.co.uk/pa/640/4acbf6e0-62b1-508f-af6d-a08cb2d202cc.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5088531</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230502134500 +0100" stop="20230502141500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Doctors</title>
+		<sub-title lang="en">Give Them What They Want</sub-title>
+		<desc lang="en">Rob makes a big decision about the future and Nina wonders if she will be able to pull off her big plan. Bear and Sid try to help a man with a reoccurring illness</desc>
+		<category lang="en">Soap</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/c5d7f11e-def7-5e84-bd74-f79e2241dae9.jpg" />
+		<episode-num system="common">S24E60</episode-num>
+		<episode-num system="tvguide.co.uk_progid">1013931</episode-num>
+		<episode-num system="xmltv_ns">23.59.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>2.9/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230502141500 +0100" stop="20230502150000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Countryfile Spring Diaries</title>
+		<sub-title lang="en">Countryfile Diaries</sub-title>
+		<desc lang="en">Margherita Taylor sees the injuries that plastic litter can cause to British sea life, and Paul Martin shares tips to keep viewers&apos; summer pots in flower all season long</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/d5c4d732-a51e-5125-aa9f-99bcbae7c662.jpg" />
+		<episode-num system="common">S04E02</episode-num>
+		<episode-num system="tvguide.co.uk_progid">2366712</episode-num>
+		<episode-num system="xmltv_ns">3.1.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230502150000 +0100" stop="20230502154500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Escape to the Country</title>
+		<sub-title lang="en">Devon</sub-title>
+		<desc lang="en">Jules Hudson helps a calligrapher from East London find a new home in Devon on a budget of £400,000, and attends a sea shanty festival on the southern coast</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/6b7c9324-6e34-556f-ad50-a5eae1f37985.jpg" />
+		<episode-num system="common">S20E01</episode-num>
+		<episode-num system="tvguide.co.uk_progid">401724</episode-num>
+		<episode-num system="xmltv_ns">19.0.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>5.9/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230502154500 +0100" stop="20230502163000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">The Bidding Room</title>
+		<desc lang="en">Nigel Havers welcomes five more sellers to the Bidding Room, where they try to sell items to five professional dealers who are on the lookout for interesting pieces, with help from expert Simon Bower. Here, the dealers bid against each other on a vintage pub game, a small and mysterious statue and an apothecary set complete with tiny weights</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/3e05cb75-0c47-5bbb-8271-dfefad34671f.jpg" />
+		<episode-num system="common">S02E19</episode-num>
+		<episode-num system="tvguide.co.uk_progid">3702525</episode-num>
+		<episode-num system="xmltv_ns">1.18.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>4.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230502163000 +0100" stop="20230502171500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Unbeatable</title>
+		<desc lang="en">Over three rounds, contestants vie to find the single `unbeatable&apos; answer and streak ahead of the rest to make the final where they can win a cash prize. General knowledge quiz, hosted by Jason Manford</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/a08910e7-56c1-57db-bd65-93df7d40b7f0.jpg" />
+		<episode-num system="common">S03E27</episode-num>
+		<episode-num system="tvguide.co.uk_progid">4160524</episode-num>
+		<episode-num system="xmltv_ns">2.26.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>3.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230502171500 +0100" stop="20230502180000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Pointless</title>
+		<desc lang="en">Sally Lindsay joins Alexander Armstrong to co-host the quiz, in which contestants try to score the fewest points possible by giving the most obscure answers</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/ec37bcf4-30fd-5ae9-a806-b36f3521aba3.jpg" />
+		<episode-num system="common">S28E02</episode-num>
+		<episode-num system="tvguide.co.uk_progid">1259078</episode-num>
+		<episode-num system="xmltv_ns">27.1.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230502180000 +0100" stop="20230502183000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC News at Six; Weather</title>
+		<sub-title lang="en">02/05/2023</sub-title>
+		<desc lang="en">The latest headlines</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/c10d0d61-fd16-5000-b4d0-0e1ebcd038a6.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091200</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20230502183000 +0100" stop="20230502185500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC London News; Weather</title>
+		<sub-title lang="en">02/05/2023 - Evening</sub-title>
+		<icon src="https://images.tvguide.co.uk/pa/640/4acbf6e0-62b1-508f-af6d-a08cb2d202cc.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5088532</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230502185500 +0100" stop="20230502190000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Party Election Broadcast</title>
+		<sub-title lang="en">02/05/2023 - Conservative Party</sub-title>
+		<desc lang="en">By the Conservative Party</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/18f2070e-581c-5118-8855-52b695cb7000.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5090861</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>4.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230502190000 +0100" stop="20230502193000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">The One Show</title>
+		<sub-title lang="en">02/05/2023</sub-title>
+		<desc lang="en">Alex Jones and Jermaine Jenas present another mix of nationwide reports and live studio-based chat</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/0306254b-2b01-5845-8c5e-fcb0873f7274.jpg" />
+		<episode-num system="tvguide.co.uk_progid">1657556</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>4.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230502193000 +0100" stop="20230502200000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">EastEnders</title>
+		<sub-title lang="en">02/05/2023</sub-title>
+		<desc lang="en">Janine finally receives her sentence and the police offer Keanu a deal. Sonia gets the wrong idea when Reiss starts planning a big party, meanwhile Billy and Ben put together a plan to stop Jay from going under</desc>
+		<category lang="en">Soap</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/748b7b7f-808a-5311-8f3c-610adbb0a7af.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5095331</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>5.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230502200000 +0100" stop="20230502210000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Sort Your Life Out with Stacey Solomon</title>
+		<sub-title lang="en">The Paine Family</sub-title>
+		<desc lang="en">Stacey challenges members of the Paine family to declutter their home in seven days. In order to do this, they have to let go of half their possessions so that they can then reorganise their property. There are emotional moments as single mother Steph and her three daughters go through their most treasured items, and make some difficult decisions about what to let go of from their past. The items they do decide to let go of will be put into piles to recycle, donate or sell. Plus, tidying and upcycling tips from carpenter Robert Bent, organiser Dilly Carter and cleaner Iwan Carrington</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/804e9766-5cf4-54a1-9306-6912531ff86b.jpg" />
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="tvguide.co.uk_progid">4379744</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>2.7/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230502210000 +0100" stop="20230502220000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">MasterChef</title>
+		<desc lang="en">The fifth and final week of heats gets under way, with another nine contestants aiming to impress Gregg Wallace and John Torode in the opening Audition Round. John and Gregg don&apos;t witness them cook in the MasterChef kitchen, but taste each dish in the Tasting Room and judge each contestant&apos;s food solely on the plate that is put in front of them. After tasting all nine plates, they pick their three favourite dishes, giving those cooks a well-earned MasterChef apron and immunity from cooking in the next round</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/20a15234-e929-52ed-91b4-3906df8212ff.jpg" />
+		<episode-num system="common">S19E13</episode-num>
+		<episode-num system="tvguide.co.uk_progid">697690</episode-num>
+		<episode-num system="xmltv_ns">18.12.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>7.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230502220000 +0100" stop="20230502223000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC News at Ten</title>
+		<sub-title lang="en">02/05/2023</sub-title>
+		<desc lang="en">A round-up of today&apos;s headlines</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/9470ce28-fbee-51b0-81c6-9ad7db2dd39c.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091201</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230502223000 +0100" stop="20230502224000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC London News; Weather</title>
+		<sub-title lang="en">02/05/2023 - Late</sub-title>
+		<icon src="https://images.tvguide.co.uk/pa/640/4acbf6e0-62b1-508f-af6d-a08cb2d202cc.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5088533</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230502224000 +0100" stop="20230502231000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Rain Dogs</title>
+		<sub-title lang="en">Jesus Loves a Hustler</sub-title>
+		<desc lang="en">Costello and Iris have found a safe place to land but the hustle to keep afloat continues. As he pines for a phone call from Costello, Selby acclimatises to his new reality and reluctantly makes a new friend, while Gloria asks for Costello&apos;s help as she wavers over a life-altering decision. Iris is angry at being moved to yet another new home when disaster strikes, propelling both Costello and her into more uncertainty</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/5b9ba4ac-3210-557d-964a-075b86f3ef83.jpg" />
+		<episode-num system="common">S01E06</episode-num>
+		<episode-num system="tvguide.co.uk_progid">5069284</episode-num>
+		<episode-num system="xmltv_ns">0.5.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230502231000 +0100" stop="20230503000500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Gossip Girl</title>
+		<sub-title lang="en">I Know What You Did Last Summit</sub-title>
+		<desc lang="en">Kate tries to get back the passwords to the Gossip Girl account by taking a job as Monet&apos;s tutor. Julien tries her hand at espionage and Max puts everything on the line</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/1922fbb7-f8f3-5b81-b8d5-c9a16e6d22b7.jpg" />
+		<episode-num system="common">S02E09</episode-num>
+		<episode-num system="tvguide.co.uk_progid">4290597</episode-num>
+		<episode-num system="xmltv_ns">1.8.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>7.1/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230503000500 +0100" stop="20230503010000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Gossip Girl</title>
+		<sub-title lang="en">I Know What You Did Last Summit</sub-title>
+		<desc lang="en">Kate tries to get back the passwords to the Gossip Girl account by taking a job as Monet&apos;s tutor. Julien tries her hand at espionage and Max puts everything on the line</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/1922fbb7-f8f3-5b81-b8d5-c9a16e6d22b7.jpg" />
+		<episode-num system="common">S02E09</episode-num>
+		<episode-num system="tvguide.co.uk_progid">4290597</episode-num>
+		<episode-num system="xmltv_ns">1.8.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>7.1/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230503010000 +0100" stop="20230503010500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Weather for the Week Ahead</title>
+		<sub-title lang="en">02/05/2023</sub-title>
+		<desc lang="en">A look ahead to the latest forecast</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/0531f0df-93fc-5de5-aa7d-4961ec7bdbf7.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091202</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230503010500 +0100" stop="20230503020000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC News</title>
+		<sub-title lang="en">02/05/2023</sub-title>
+		<icon src="https://images.tvguide.co.uk/pa/640/281dc9b3-5852-544f-9c05-8c9366d863b2.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091203</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230503020000 +0100" stop="20230503060000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC News</title>
+		<icon src="https://images.tvguide.co.uk/pa/640/281dc9b3-5852-544f-9c05-8c9366d863b2.jpg" />
+		<episode-num system="tvguide.co.uk_progid">2222452</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230503060000 +0100" stop="20230503091500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Breakfast</title>
+		<sub-title lang="en">03/05/2023</sub-title>
+		<desc lang="en">A round-up of national and international news, plus current affairs, arts and entertainment, and weather</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/0e3fb33b-2502-5bed-b987-256cebe0ecf7.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091204</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>2.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230503091500 +0100" stop="20230503100000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Morning Live</title>
+		<sub-title lang="en">03/05/2023</sub-title>
+		<desc lang="en">Weekday magazine show featuring a mixture of topical chat and expert advice</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/92028e48-0554-57fc-8cf6-871ffcd95a2f.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091205</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>3.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230503100000 +0100" stop="20230503104500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Scam Interceptors</title>
+		<desc lang="en">Rav Wilding joins forces with ethical hackers to hunt down cyber criminals. Using the same remote-access technology that criminals use to scam their victims, the team hacks the hackers and monitors their operation</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/eb3afb18-bac5-59f0-9ded-56d63a7e811c.jpg" />
+		<episode-num system="common">S02E03</episode-num>
+		<episode-num system="tvguide.co.uk_progid">5097143</episode-num>
+		<episode-num system="xmltv_ns">1.2.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>7.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230503104500 +0100" stop="20230503111500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Maximum Security</title>
+		<desc lang="en">Dom Littlewood finds out how sniffer dogs are trained, and he sets sail with the Port of Dover police to see how they secure the country&apos;s border in the English Channel</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/852e4146-44e3-55f0-b98c-a22bb7167136.jpg" />
+		<episode-num system="common">S01E03</episode-num>
+		<episode-num system="tvguide.co.uk_progid">4782538</episode-num>
+		<episode-num system="xmltv_ns">0.2.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230503111500 +0100" stop="20230503121500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Homes Under the Hammer</title>
+		<desc lang="en">Dion Dublin is astonished to find everything completely broken down in a terraced house in south Wales, before heading to Stoke-on-Trent to wander around a plot of land with a mysterious past. In Kent, Jacqui Joseph lets her imagination run riot in the back garden of a ground-floor flat</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/01e0af41-17e7-53c5-a1a3-609447edcf09.jpg" />
+		<episode-num system="common">S24E67</episode-num>
+		<episode-num system="tvguide.co.uk_progid">4350073</episode-num>
+		<episode-num system="xmltv_ns">23.66.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>4.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230503121500 +0100" stop="20230503130000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Bargain Hunt</title>
+		<sub-title lang="en">Oswestry 5</sub-title>
+		<desc lang="en">Kate Bliss and Ochuko Ojiri help two teams search for items at Oswestry Showground in Shropshire, while presenter Anita Manning looks at the history of the game of marbles</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/f08cdf44-ae5c-58f3-b907-5f1149e74394.jpg" />
+		<episode-num system="common">S55E04</episode-num>
+		<episode-num system="tvguide.co.uk_progid">3514296</episode-num>
+		<episode-num system="xmltv_ns">54.3.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>3.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230503130000 +0100" stop="20230503133000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC News at One; Weather</title>
+		<sub-title lang="en">03/05/2023</sub-title>
+		<desc lang="en">A round-up of the latest headlines</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/c8241e9a-e74b-5c87-9e72-27441b564c5e.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091206</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20230503133000 +0100" stop="20230503134500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC London News; Weather</title>
+		<sub-title lang="en">03/05/2023</sub-title>
+		<icon src="https://images.tvguide.co.uk/pa/640/4acbf6e0-62b1-508f-af6d-a08cb2d202cc.jpg" />
+		<episode-num system="tvguide.co.uk_progid">2223240</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230503134500 +0100" stop="20230503141500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Doctors</title>
+		<sub-title lang="en">Winds of Change</sub-title>
+		<desc lang="en">Rob and Imogen say an emotional farewell to Karen as Zara goes above and beyond to save the Beechwalk. Luca is surprised by Cora&apos;s big decision</desc>
+		<category lang="en">Soap</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/34e6f1fb-1014-5f14-b837-a3b8fef22ab2.jpg" />
+		<episode-num system="common">S24E57</episode-num>
+		<episode-num system="tvguide.co.uk_progid">5080371</episode-num>
+		<episode-num system="xmltv_ns">23.56.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>2.9/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230503141500 +0100" stop="20230503150000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Countryfile Spring Diaries</title>
+		<desc lang="en">Margherita Taylor visits Secret World Wildlife Rescue Centre in north Somerset and John Craven celebrates five of the most wonderful mountain, moor and hill treks and walks</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/f5ac52c8-07f6-5f3a-b966-34216486432d.jpg" />
+		<episode-num system="common">S03E03</episode-num>
+		<episode-num system="tvguide.co.uk_progid">3001208</episode-num>
+		<episode-num system="xmltv_ns">2.2.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230503150000 +0100" stop="20230503154500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Escape to the Country</title>
+		<sub-title lang="en">Argyll and Bute</sub-title>
+		<desc lang="en">A couple from the Surrey town of Epsom enjoy the landscape of Argyll and Bute as Nicki Chapman shows them around a selection of properties for their budget of £600,000. Nicki also takes to the water on Loch Lomond, meeting a family who have owned and lived on an island for 70 years</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/df35068e-2faa-5736-a69f-e343bd8d1f09.jpg" />
+		<episode-num system="common">S22E02</episode-num>
+		<episode-num system="tvguide.co.uk_progid">4338242</episode-num>
+		<episode-num system="xmltv_ns">21.1.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>5.9/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230503154500 +0100" stop="20230503163000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">The Bidding Room</title>
+		<desc lang="en">Five dealers bid against one another to buy two mannequins, a Moorcroft vase, an electric massager, a piece of religious art and a curious ladder. With Nigel Havers</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/3e05cb75-0c47-5bbb-8271-dfefad34671f.jpg" />
+		<episode-num system="common">S02E16</episode-num>
+		<episode-num system="tvguide.co.uk_progid">4026022</episode-num>
+		<episode-num system="xmltv_ns">1.15.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>4.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230503163000 +0100" stop="20230503171500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Unbeatable</title>
+		<desc lang="en">Over three rounds, contestants vie to find the single `unbeatable&apos; answer and streak ahead of the rest to make the final where they can win a cash prize. General knowledge quiz, hosted by Jason Manford</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/9a5249c4-d9f2-51cc-8521-626cac0ad00f.jpg" />
+		<episode-num system="common">S03E23</episode-num>
+		<episode-num system="tvguide.co.uk_progid">5096728</episode-num>
+		<episode-num system="xmltv_ns">2.22.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>3.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230503171500 +0100" stop="20230503180000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Pointless</title>
+		<desc lang="en">Quiz in which contestants try to score the fewest points possible by giving the least obvious correct answers to questions. Presented by Alexander Armstrong and Ria Lina</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/88b56c94-0002-5edd-be8c-3358ba170222.jpg" />
+		<episode-num system="common">S29E24</episode-num>
+		<episode-num system="tvguide.co.uk_progid">5096512</episode-num>
+		<episode-num system="xmltv_ns">28.23.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230503180000 +0100" stop="20230503183000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC News at Six; Weather</title>
+		<sub-title lang="en">03/05/2023</sub-title>
+		<desc lang="en">The latest headlines</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/c10d0d61-fd16-5000-b4d0-0e1ebcd038a6.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091208</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20230503183000 +0100" stop="20230503190000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC London News; Weather</title>
+		<sub-title lang="en">03/05/2023</sub-title>
+		<icon src="https://images.tvguide.co.uk/pa/640/4acbf6e0-62b1-508f-af6d-a08cb2d202cc.jpg" />
+		<episode-num system="tvguide.co.uk_progid">2223240</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230503190000 +0100" stop="20230503193000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">The One Show</title>
+		<sub-title lang="en">03/05/2023</sub-title>
+		<desc lang="en">Lauren Laverne and Jermaine Jenas present the magazine show, with stories of interest from around the UK, plus celebrity guests in the studio</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/0306254b-2b01-5845-8c5e-fcb0873f7274.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5096864</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>4.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230503193000 +0100" stop="20230503200000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">EastEnders</title>
+		<sub-title lang="en">03/05/2023</sub-title>
+		<desc lang="en">Karen and Sharon are on edge as they wait to find out how Keanu is. Lola throws Billy a surprise birthday party but he can&apos;t bring himself to feel happy and Sonia is getting increasingly fed up with Reiss planning his coronation party</desc>
+		<category lang="en">Soap</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/af38835d-9e54-5b53-8010-2818485cbc02.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5095345</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>5.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230503200000 +0100" stop="20230503210000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">The Repair Shop</title>
+		<sub-title lang="en">The Repair Shop: A Royal Visit</sub-title>
+		<desc lang="en">In an episode recorded in autumn 2021 to mark the BBC&apos;s centenary, Jay Blades meets King Charles III, who was then the Prince of Wales, to explore their shared passion of preserving heritage craft skills. Jay, ceramics expert Kirsten Ramsay, horologist Steve Fletcher, and furniture restorer Will Kirk are invited to Dumfries House in Scotland to meet Charles and learn about The Prince&apos;s Foundation&apos;s work to train the next generation of craftspeople</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/2cad630e-b60e-5a49-a1ca-4e2e6b2457b2.jpg" />
+		<episode-num system="tvguide.co.uk_progid">4850715</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230503210000 +0100" stop="20230503220000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Race Across the World</title>
+		<desc lang="en">The teams venture through Canada&apos;s friendliest provinces - New Brunswick, Prince Edward Island and Nova Scotia, as they head to the seventh checkpoint in Liverpool, Nova Scotia. Zainib and Mobeen plan to test the friendly reputation of the area and rely on local hospitality to get them to their destination. Claudia and Kevin are running on fumes and are in desperate need of some good luck as they end up spending money to go backwards. Tricia and Cathie start to feel the stress of the race getting to them and put their efforts into rallying together for the final push and Monique and Ladi feel the pressure as the only team remaining to have not won a leg yet</desc>
+		<category lang="en">Drama</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/0a4b098b-92c2-5898-b2b7-8c3bbf8c8e10.jpg" />
+		<episode-num system="common">S03E07</episode-num>
+		<episode-num system="tvguide.co.uk_progid">5096468</episode-num>
+		<episode-num system="xmltv_ns">2.6.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>5.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230503220000 +0100" stop="20230503223000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC News at Ten</title>
+		<sub-title lang="en">03/05/2023</sub-title>
+		<desc lang="en">A round-up of today&apos;s headlines</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/9470ce28-fbee-51b0-81c6-9ad7db2dd39c.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091210</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230503223000 +0100" stop="20230503224000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC London News; Weather</title>
+		<sub-title lang="en">03/05/2023</sub-title>
+		<icon src="https://images.tvguide.co.uk/pa/640/4acbf6e0-62b1-508f-af6d-a08cb2d202cc.jpg" />
+		<episode-num system="tvguide.co.uk_progid">2223240</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230503224000 +0100" stop="20230504001500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Booksmart</title>
+		<sub-title lang="en">Movie (2019)</sub-title>
+		<desc lang="en">On the eve of their high-school graduation, two academic superstars and best friends realise they should have worked less and played more. Determined not to fall short of their peers, the girls try to cram four years of fun into one night. Comedy directed by Olivia Wilde and starring Kaitlyn Dever, Beanie Feldstein and Jessica Williams</desc>
+		<date>2019</date>
+		<category lang="en">Movie</category>
+		<category lang="en">Comedy</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/86a5869a-564a-57c0-b13f-f65e0e8f9c00.jpg" />
+		<episode-num system="tvguide.co.uk_progid">4493397</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<premiere />
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>7.1/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230504001500 +0100" stop="20230504011500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Gordon Ramsay&apos;s Future Food Stars</title>
+		<desc lang="en">In the Lake District, Gordon tasks the contenders to collect pine needles and cones from 40-foot trees to infuse into Michelin-starred Mille Feuille in a bid to demonstrate how they can turn humble ingredients into profit. Next, they create bottled sauces to sell at HWKR Market in Gateshead, Tyne and Wear. It&apos;s a crowded market, so will anyone impress the secret industry greats Gordon has invited to the venue - and will anyone convince Sauce Shop enough to launch their brand as a `special edition&apos;?</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/7c40b8c1-0bc0-5381-b51e-44f95dd72577.jpg" />
+		<episode-num system="common">S02E05</episode-num>
+		<episode-num system="tvguide.co.uk_progid">5087018</episode-num>
+		<episode-num system="xmltv_ns">1.4.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>4.9/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230504011500 +0100" stop="20230504012000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Weather for the Week Ahead</title>
+		<sub-title lang="en">03/05/2023</sub-title>
+		<desc lang="en">A look ahead to the latest forecast</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/0531f0df-93fc-5de5-aa7d-4961ec7bdbf7.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091212</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230504012000 +0100" stop="20230504060000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC News</title>
+		<sub-title lang="en">03/05/2023</sub-title>
+		<icon src="https://images.tvguide.co.uk/pa/640/281dc9b3-5852-544f-9c05-8c9366d863b2.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091213</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230504060000 +0100" stop="20230504091500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Breakfast</title>
+		<sub-title lang="en">04/05/2023</sub-title>
+		<desc lang="en">A round-up of national and international news, plus current affairs, arts and entertainment, and weather</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/0e3fb33b-2502-5bed-b987-256cebe0ecf7.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091216</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>2.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230504091500 +0100" stop="20230504100000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Morning Live</title>
+		<sub-title lang="en">04/05/2023</sub-title>
+		<desc lang="en">Gethin Jones co-hosts the weekday magazine show featuring a mixture of topical chat and expert advice</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/92028e48-0554-57fc-8cf6-871ffcd95a2f.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091217</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>3.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230504100000 +0100" stop="20230504104500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Scam Interceptors</title>
+		<desc lang="en">Rav Wilding and YouTuber Jim Browning join forces with ethical hackers to hunt down cyber criminals. Using the same remote-access technology that criminals use to scam their victims, the team hacks the hackers and monitors their operation</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/eb3afb18-bac5-59f0-9ded-56d63a7e811c.jpg" />
+		<episode-num system="common">S02E04</episode-num>
+		<episode-num system="tvguide.co.uk_progid">5097127</episode-num>
+		<episode-num system="xmltv_ns">1.3.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>7.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230504104500 +0100" stop="20230504111500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Maximum Security</title>
+		<desc lang="en">Dom Littlewood sees how a London rail station deals with a suspicious package, and sees how the police are working with the local community in Southend-on-Sea, Essex</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/c5773d58-0122-5d27-9a65-25f7210cf323.jpg" />
+		<episode-num system="common">S01E04</episode-num>
+		<episode-num system="tvguide.co.uk_progid">4782548</episode-num>
+		<episode-num system="xmltv_ns">0.3.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230504111500 +0100" stop="20230504121500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Homes Under the Hammer</title>
+		<desc lang="en">Martin Roberts, Dion Dublin and Martel Maxwell track progress on renovations in Bristol and Blackley and a building project on land in Stoke-on-Trent</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/174a81ad-a053-5649-aedc-19fd02b8f811.jpg" />
+		<episode-num system="common">S26E20</episode-num>
+		<episode-num system="tvguide.co.uk_progid">5096469</episode-num>
+		<episode-num system="xmltv_ns">25.19.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>4.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230504121500 +0100" stop="20230504130000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Bargain Hunt</title>
+		<sub-title lang="en">Shrewsbury 5</sub-title>
+		<desc lang="en">Charlie Ross travels to Shrewsbury in Shropshire, where Tim Weeks and Ben Cooper provide expert help as the red and blue teams compete to see who can make the most profit at auction. Charlie goes round the fair quizzing members of the public on a rather unusual antique he has brought along</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/e46c05bc-08ad-5e84-8d3a-2f89a9781dee.jpg" />
+		<episode-num system="common">S60E24</episode-num>
+		<episode-num system="tvguide.co.uk_progid">5097130</episode-num>
+		<episode-num system="xmltv_ns">59.23.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>3.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230504130000 +0100" stop="20230504133000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC News at One; Weather</title>
+		<sub-title lang="en">04/05/2023</sub-title>
+		<desc lang="en">A round-up of the latest headlines</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/c8241e9a-e74b-5c87-9e72-27441b564c5e.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091218</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20230504133000 +0100" stop="20230504134500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC London News; Weather</title>
+		<sub-title lang="en">04/05/2023 - Lunch</sub-title>
+		<icon src="https://images.tvguide.co.uk/pa/640/4acbf6e0-62b1-508f-af6d-a08cb2d202cc.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5089070</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230504134500 +0100" stop="20230504141500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Doctors</title>
+		<sub-title lang="en">Duckling</sub-title>
+		<desc lang="en">On a home visit, Al meets a mother struggling to face the outside world. Shocking news pushes the already pressured family to the limit</desc>
+		<category lang="en">Soap</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/7294e8cb-99c8-54d8-971a-72f11be28471.jpg" />
+		<episode-num system="common">S24E58</episode-num>
+		<episode-num system="tvguide.co.uk_progid">5092201</episode-num>
+		<episode-num system="xmltv_ns">23.57.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>2.9/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230504141500 +0100" stop="20230504150000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Countryfile Spring Diaries</title>
+		<desc lang="en">Keeley Donovan visits the shores of Loch Ness in the Scottish Highlands finding out about a cutting-edge trial by the ambulance service. Plus, John Craven celebrates some of the country&apos;s most beautiful villages to visit in spring time</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/711894e8-b8a7-5fa9-8bd1-8d2ffe5d659b.jpg" />
+		<episode-num system="common">S03E04</episode-num>
+		<episode-num system="tvguide.co.uk_progid">2999666</episode-num>
+		<episode-num system="xmltv_ns">2.3.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230504150000 +0100" stop="20230504154500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Escape to the Country</title>
+		<sub-title lang="en">Cornwall</sub-title>
+		<desc lang="en">After 25 years living in America, a couple are heading back to Blighty and have chosen Cornwall for their homecoming. Sonali Shah is on hand to show them some of the best property available in the county for their £675,000 budget</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/a6f90602-be6d-5575-96e3-199d0594de07.jpg" />
+		<episode-num system="common">S22E13</episode-num>
+		<episode-num system="tvguide.co.uk_progid">4414417</episode-num>
+		<episode-num system="xmltv_ns">21.12.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>5.9/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230504154500 +0100" stop="20230504163000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">The Bidding Room</title>
+		<desc lang="en">Five dealers bid against each other for items brought in by the public, including a unique 1960s vase, a curious mirror, two chalkware statues and a troll called Trotter. Presented by Nigel Havers</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/3e05cb75-0c47-5bbb-8271-dfefad34671f.jpg" />
+		<episode-num system="common">S02E17</episode-num>
+		<episode-num system="tvguide.co.uk_progid">4054291</episode-num>
+		<episode-num system="xmltv_ns">1.16.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>4.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230504163000 +0100" stop="20230504171500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Unbeatable</title>
+		<desc lang="en">Over three rounds, contestants vie to find the single `unbeatable&apos; answer and streak ahead of the rest to make the final where they can win a cash prize. General knowledge quiz, hosted by Jason Manford</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/4e416bd0-3910-538d-ab3e-eedb8ac0c7c6.jpg" />
+		<episode-num system="common">S03E24</episode-num>
+		<episode-num system="tvguide.co.uk_progid">5096713</episode-num>
+		<episode-num system="xmltv_ns">2.23.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>3.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230504171500 +0100" stop="20230504180000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Pointless</title>
+		<desc lang="en">Ria Lina joins Alexander Armstrong for the quiz in which contestants try to score the fewest points possible by giving the least obvious correct answers</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/88b56c94-0002-5edd-be8c-3358ba170222.jpg" />
+		<episode-num system="common">S29E24</episode-num>
+		<episode-num system="tvguide.co.uk_progid">5096445</episode-num>
+		<episode-num system="xmltv_ns">28.23.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230504180000 +0100" stop="20230504183000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC News at Six; Weather</title>
+		<sub-title lang="en">04/05/2023</sub-title>
+		<desc lang="en">The latest headlines</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/c10d0d61-fd16-5000-b4d0-0e1ebcd038a6.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091221</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20230504183000 +0100" stop="20230504190000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC London News; Weather</title>
+		<sub-title lang="en">04/05/2023 - Evening</sub-title>
+		<icon src="https://images.tvguide.co.uk/pa/640/4acbf6e0-62b1-508f-af6d-a08cb2d202cc.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5089071</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230504190000 +0100" stop="20230504193000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">The One Show</title>
+		<sub-title lang="en">04/05/2023</sub-title>
+		<desc lang="en">Alex Jones and Jermaine Jenas host the live magazine programme featuring a mixture of celebrity chat and stories of interest</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/0306254b-2b01-5845-8c5e-fcb0873f7274.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5094189</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>4.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230504193000 +0100" stop="20230504200000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">EastEnders</title>
+		<sub-title lang="en">04/05/2023</sub-title>
+		<desc lang="en">Coronation fever sweeps across the square, Billy makes it his mission to convince Linda to host a party at The Vic and comes up with a way to include Mick in the celebrations. Reiss finds out why Sonia is fed up of him</desc>
+		<category lang="en">Soap</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/c721d279-d616-55da-b338-7c625dcc8f0c.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5095353</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>5.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230504200000 +0100" stop="20230504203000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Would I Lie to You?</title>
+		<desc lang="en">Bez, Motsi Mabuse, Shazia Mirza and Steve Pemberton join host Rob Brydon and regular captains David Mitchell and Lee Mack on the comedy panel show. As usual, the participants set out to hoodwink their opponents with absurd facts and plausible fibs about themselves in a bid to secure a team victory, through rounds such as Home Truths and Quick-fire Lies</desc>
+		<category lang="en">Comedy</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/c4dc8c54-1d75-5bf7-b79d-2241ba0c087e.jpg" />
+		<episode-num system="common">S16E01</episode-num>
+		<episode-num system="tvguide.co.uk_progid">4932650</episode-num>
+		<episode-num system="xmltv_ns">15.0.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230504203000 +0100" stop="20230504210000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">MasterChef</title>
+		<desc lang="en">The fourth quarter-final sees the week&apos;s most talented four cooks return to fight for a place in Knockout Week. They must cook two courses that will excite not just regular judges John Torode and Gregg Wallace, but also 2020 champion Thomas Frake, 2010 champion Dhruv Baker and 2021 finalist Alexina Anatole. All three of their forerunners have gone on to forge careers in the food industry</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/e9cecbc1-858f-5683-9d67-a8273c635cdf.jpg" />
+		<episode-num system="common">S19E12</episode-num>
+		<episode-num system="tvguide.co.uk_progid">5096462</episode-num>
+		<episode-num system="xmltv_ns">18.11.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>7.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230504210000 +0100" stop="20230504220000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Gordon Ramsay&apos;s Future Food Stars</title>
+		<desc lang="en">Gordon celebrates the very best of British - exquisite produce and the pinnacle of fine dining. First, he invites his entrepreneurs to the Fish Society in Surrey where he tasks them with perfectly de-shelling one of the most expensive foods to be found on any menu - lobster. He then puts the contenders in charge of his high-end Mayfair restaurant, Lucky Cat. With his reputation on the line and paying diners expecting immaculate food and service, he expects them to live up to his own extraordinarily high standards in order to have any hope of proceeding in the competition</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/40e47942-adee-550c-8f9a-46898c5e348a.jpg" />
+		<episode-num system="common">S02E06</episode-num>
+		<episode-num system="tvguide.co.uk_progid">5096448</episode-num>
+		<episode-num system="xmltv_ns">1.5.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>4.9/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230504220000 +0100" stop="20230504223000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC News at Ten</title>
+		<sub-title lang="en">04/05/2023</sub-title>
+		<desc lang="en">A round-up of today&apos;s headlines</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/9470ce28-fbee-51b0-81c6-9ad7db2dd39c.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091222</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230504223000 +0100" stop="20230504224000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC London News; Weather</title>
+		<sub-title lang="en">04/05/2023 - Late</sub-title>
+		<icon src="https://images.tvguide.co.uk/pa/640/4acbf6e0-62b1-508f-af6d-a08cb2d202cc.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5089072</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230504224000 +0100" stop="20230504234000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Question Time</title>
+		<sub-title lang="en">04/05/2023</sub-title>
+		<desc lang="en">Fiona Bruce presents the topical debate, inviting a panel of politicians and other guests in Telford, Shropshire, to answer questions from an invited audience on subjects that have made the headlines over the past week</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/f60e081f-37be-5925-869d-062d6395cf8d.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5092192</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230504234000 +0100" stop="20230505020000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Elections 2023</title>
+		<sub-title lang="en">04/05/2023 - 1</sub-title>
+		<desc lang="en">Laura Kuenssberg leads a team of BBC reporters as the votes in 8,000 seats are counted at 230 councils across England. Mayoral elections are also taking place in Bedford, Leicester, Mansfield and Middlesbrough. Reeta Chakrabarti crunches the numbers on her giant screens and Professor John Curtice assesses the underlying electoral trends. The BBC&apos;s Political Editor Chris Mason analyses what these elections mean for each political party, and senior politicians are on hand to give their verdict on the results</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/5facbd82-d420-5436-9639-404eb34b96c3.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5092248</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>9.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230505020000 +0100" stop="20230505060000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Elections 2023</title>
+		<sub-title lang="en">04/05/2023 - 2</sub-title>
+		<desc lang="en">Laura Kuenssberg leads a team of BBC reporters as the votes in 8,000 seats are counted at 230 councils across England. Mayoral elections are also taking place in Bedford, Leicester, Mansfield and Middlesbrough. Reeta Chakrabarti crunches the numbers on her giant screens and Professor John Curtice assesses the underlying electoral trends. The BBC&apos;s Political Editor Chris Mason analyses what these elections mean for each political party, and senior politicians are on hand to give their verdict on the results</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/5facbd82-d420-5436-9639-404eb34b96c3.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5094167</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>9.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230505060000 +0100" stop="20230505091500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Breakfast</title>
+		<sub-title lang="en">05/04/2023</sub-title>
+		<desc lang="en">A round-up of national and international news, plus current affairs, arts and entertainment, and weather</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/0e3fb33b-2502-5bed-b987-256cebe0ecf7.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091230</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>2.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230505091500 +0100" stop="20230505100000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Morning Live</title>
+		<sub-title lang="en">05/05/2023</sub-title>
+		<desc lang="en">Gethin Jones co-hosts the weekday magazine show featuring a mixture of topical chat and expert advice</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/92028e48-0554-57fc-8cf6-871ffcd95a2f.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091231</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>3.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230505100000 +0100" stop="20230505104500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Scam Interceptors</title>
+		<desc lang="en">Rav Wilding and YouTuber Jim Browning join forces with ethical hackers to hunt down cyber criminals. Using the same remote-access technology that criminals use to scam their victims, the team hacks the hackers and monitors their operation</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/eb3afb18-bac5-59f0-9ded-56d63a7e811c.jpg" />
+		<episode-num system="common">S02E05</episode-num>
+		<episode-num system="tvguide.co.uk_progid">5097101</episode-num>
+		<episode-num system="xmltv_ns">1.4.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>7.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230505104500 +0100" stop="20230505111500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Maximum Security</title>
+		<desc lang="en">Dom Littlewood finds out how security works at a Premiership rugby match, and hears about an award-winning act of bravery by a hospital security team</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/69b0bae8-e209-5c73-82d3-03ede75a3990.jpg" />
+		<episode-num system="common">S01E05</episode-num>
+		<episode-num system="tvguide.co.uk_progid">4782550</episode-num>
+		<episode-num system="xmltv_ns">0.4.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230505111500 +0100" stop="20230505121500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Homes Under the Hammer</title>
+		<desc lang="en">Dion Dublin is in Wolverhampton to look around a traditional three-bed semi-detached house on a generous corner plot, before heading to Stoke-on-Trent to see a three-in-one auction lot of two flats with a ground-floor shop included. In Dover, Kent, Martin Roberts employs a simple but ingenious device to confirm whether the floors in a three-bed Victorian mid-terrace are uneven</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/6add2813-37bc-5259-b848-5a2ca611d6aa.jpg" />
+		<episode-num system="common">S24E69</episode-num>
+		<episode-num system="tvguide.co.uk_progid">4362075</episode-num>
+		<episode-num system="xmltv_ns">23.68.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>4.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230505121500 +0100" stop="20230505130000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Bargain Hunt</title>
+		<sub-title lang="en">Coronation Special - Newark</sub-title>
+		<desc lang="en">Christina Trevanion hosts a special Coronation episode at Newark Antiques fair, Nottinghamshire, in which the red and blue teams are made up of royal fans, guided by experts Raj Bisram and Roo Irvine. The teams have £300 to spend on three items and royal themed-antiques are very much on their shopping lists. Christina also visits a pottery for an exclusive look at some new commemorative ware, and she makes her own royal plate fit for a king</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/3b9dca05-cd3f-5581-b11d-cca651664e29.jpg" />
+		<episode-num system="common">S64E13</episode-num>
+		<episode-num system="tvguide.co.uk_progid">5095911</episode-num>
+		<episode-num system="xmltv_ns">63.12.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>3.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230505130000 +0100" stop="20230505133000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC News at One; Weather</title>
+		<sub-title lang="en">05/05/2023</sub-title>
+		<desc lang="en">A round-up of the latest headlines</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/c8241e9a-e74b-5c87-9e72-27441b564c5e.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091238</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20230505133000 +0100" stop="20230505134500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC London News; Weather</title>
+		<sub-title lang="en">05/05/2023 - Lunch</sub-title>
+		<icon src="https://images.tvguide.co.uk/pa/640/4acbf6e0-62b1-508f-af6d-a08cb2d202cc.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5089600</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230505134500 +0100" stop="20230505163000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Politics Live</title>
+		<sub-title lang="en">Local Election Results</sub-title>
+		<desc lang="en">Jo Coburn leads a team of BBC reporters as the votes in 8,000 seats are counted at 230 councils across England. David Wallace Lockhart crunches the numbers on his giant screen, and Professor John Curtice assesses the underlying electoral trends</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/2710a9e7-bf03-5b0a-94b1-7f6cd1d89dae.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091239</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230505163000 +0100" stop="20230505171500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Unbeatable</title>
+		<desc lang="en">Over three rounds, contestants vie to find the single `unbeatable&apos; answer and streak ahead of the rest to make the final where they can win a cash prize. General knowledge quiz, hosted by Jason Manford</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/97e77c7e-7e62-52b9-b0c7-65de0eb089a7.jpg" />
+		<episode-num system="common">S03E25</episode-num>
+		<episode-num system="tvguide.co.uk_progid">5096714</episode-num>
+		<episode-num system="xmltv_ns">2.24.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>3.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230505171500 +0100" stop="20230505180000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Pointless</title>
+		<desc lang="en">Ria Lina joins Alexander Armstrong for the quiz in which contestants try to score the fewest points possible by giving the least obvious correct answers</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/88b56c94-0002-5edd-be8c-3358ba170222.jpg" />
+		<episode-num system="common">S29E25</episode-num>
+		<episode-num system="tvguide.co.uk_progid">5096444</episode-num>
+		<episode-num system="xmltv_ns">28.24.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230505180000 +0100" stop="20230505183000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC News at Six; Weather</title>
+		<sub-title lang="en">05/05/2023</sub-title>
+		<desc lang="en">The latest headlines</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/c10d0d61-fd16-5000-b4d0-0e1ebcd038a6.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091241</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20230505183000 +0100" stop="20230505190000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC London News; Weather</title>
+		<sub-title lang="en">05/05/2023 - Evening</sub-title>
+		<icon src="https://images.tvguide.co.uk/pa/640/4acbf6e0-62b1-508f-af6d-a08cb2d202cc.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5089601</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230505190000 +0100" stop="20230505200000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">HM The King&apos;s Coronation: The Eve of the Coronation</title>
+		<desc lang="en">Kirsty Young is joined by a range of guests who give personal insights into the King and Queen Consort as they look ahead to the coronation. Sophie Raworth joins from outside Westminster Abbey, while JJ Chalmers speaks to members of the armed forces as they prepare for one of the biggest military parades in British living memory</desc>
+		<category lang="en">Talk</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/9d70ac4c-9710-503a-9295-e09a24d3be2a.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091242</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>9.9/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230505200000 +0100" stop="20230505210000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Sing for the King: The Search for the Coronation Choir</title>
+		<desc lang="en">Gareth Malone, Motsi Mabuse, Amanda Holden and Rose Ayling-Ellis draw on their individual areas of expertise to coach, challenge and inspire singers to give a pitch-perfect performance and overcome the inevitable nerves that come with performing in front of royalty at Windsor Castle. A special choir made up of singing groups of all shapes and sizes to give a true representation of the diverse range of faces, places and voices that makes up modern Britain gets the once-in-a-lifetime chance to sing for the King and Queen Consort at the Coronation Concert, as well as millions watching around the world</desc>
+		<category lang="en">Talk</category>
+		<category lang="en">Music</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/c46b66d9-8bbe-54cc-9d75-c6d9078c6dc3.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091243</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>9.9/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230505210000 +0100" stop="20230505213000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Have I Got News for You</title>
+		<desc lang="en">Alexander Armstrong hosts, as comedian Maisie Adam and journalist Helen Lewis join in the fun on the satirical current affairs quiz, alongside regular team captains Ian Hislop and Paul Merton</desc>
+		<category lang="en">Comedy</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/aeafa01b-666d-519b-be4f-e0c5228d97bb.jpg" />
+		<episode-num system="common">S65E04</episode-num>
+		<episode-num system="tvguide.co.uk_progid">5095889</episode-num>
+		<episode-num system="xmltv_ns">64.3.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230505213000 +0100" stop="20230505220000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Black Ops</title>
+		<desc lang="en">Ordinary frontline police community support officers Dom and Kay are tasked to infiltrate a predominantly black gang of villains. Working undercover, the pair are unwittingly thrust into the murky world of deep cover infiltration as they pose as disgruntled former officers within a powerful criminal enterprise, with the motiviations of the DI who sent them in becoming increasingly unclear. Matters take an unexpected turn when the duo are tasked by a gang member with carrying out a grisly task that throws the mission - and their lives - into chaos. Comedy thriller, starring Gbemisola Ikumelo and Hammed Animashaun</desc>
+		<category lang="en">Comedy</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/205dade4-a80f-5a12-a566-9ddb45f0c972.jpg" />
+		<episode-num system="common">S01E01</episode-num>
+		<episode-num system="tvguide.co.uk_progid">5095722</episode-num>
+		<episode-num system="xmltv_ns">0.0.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<premiere />
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>7.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230505220000 +0100" stop="20230505223000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC News at Ten</title>
+		<sub-title lang="en">05/05/2023</sub-title>
+		<desc lang="en">A round-up of today&apos;s headlines</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/9470ce28-fbee-51b0-81c6-9ad7db2dd39c.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091244</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230505223000 +0100" stop="20230505224000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC London News; Weather</title>
+		<sub-title lang="en">05/05/2023 - Late</sub-title>
+		<icon src="https://images.tvguide.co.uk/pa/640/4acbf6e0-62b1-508f-af6d-a08cb2d202cc.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5089602</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230505224000 +0100" stop="20230506003500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Guardians of the Galaxy</title>
+		<sub-title lang="en">Movie (2014)</sub-title>
+		<desc lang="en">A boy abducted by aliens grows up to be an interstellar mercenary. He and a band of misfits break out of a prison space station with a plan to sell a mysterious orb to the highest bidder - but cross a warlord, who intends to turn it into a powerful weapon. Sci-fi adventure, starring Chris Pratt, Zoe Saldana and Dave Bautista, with the voices of Bradley Cooper and Vin Diesel</desc>
+		<date>2014</date>
+		<category lang="en">Movie</category>
+		<category lang="en">Drama</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/29af7913-bb21-51f2-929c-77b4cf24f366.jpg" />
+		<episode-num system="tvguide.co.uk_progid">2047039</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230506003500 +0100" stop="20230506010500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Celebrity Mastermind</title>
+		<desc lang="en">Olympic swimmer Mark Foster, stand-up comedian Dane Baptiste, BBC film critic Ali Plumb and actor Arabella Weir are in the famous black chair, answering Clive Myrie&apos;s questions on Madness, Scarface, the radio series of The Hitchhiker&apos;s Guide to the Galaxy, and Sophie Tucker</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/46b1c8c4-b212-5ede-9306-ab14c4aca44f.jpg" />
+		<episode-num system="common">S20E14</episode-num>
+		<episode-num system="tvguide.co.uk_progid">5096447</episode-num>
+		<episode-num system="xmltv_ns">19.13.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<last-chance />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>7.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230506010500 +0100" stop="20230506013500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Question of Sport</title>
+		<desc lang="en">Former Premier League defender Curtis Davies, Olympic 4x100m relay champion Mark Lewis-Francis, England cricketer Alex Hartley and Tokyo Games BMX gold medallist Bethany Shriever join team captains Sam Quek and Ugo Monye and host Paddy McGuinness on the quiz</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/4c515416-eae5-51dd-9ad3-1302de8fe8ab.jpg" />
+		<episode-num system="common">S52E22</episode-num>
+		<episode-num system="tvguide.co.uk_progid">5087036</episode-num>
+		<episode-num system="xmltv_ns">51.21.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>2.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230506013500 +0100" stop="20230506014000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Weather for the Week Ahead</title>
+		<sub-title lang="en">05/05/2023</sub-title>
+		<desc lang="en">A look ahead to the latest forecast</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/0531f0df-93fc-5de5-aa7d-4961ec7bdbf7.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091248</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230506014000 +0100" stop="20230506060000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC News</title>
+		<sub-title lang="en">05/05/2023</sub-title>
+		<icon src="https://images.tvguide.co.uk/pa/640/281dc9b3-5852-544f-9c05-8c9366d863b2.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5091247</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230506060000 +0100" stop="20230506073000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Breakfast</title>
+		<sub-title lang="en">06/05/2023</sub-title>
+		<desc lang="en">Naga Munchetty and Charlie Stayt present a round-up of national and international news, plus current affairs, arts and entertainment, and weather</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/0e3fb33b-2502-5bed-b987-256cebe0ecf7.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5099473</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>2.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230506073000 +0100" stop="20230506101500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">The Coronation of HM the King</title>
+		<sub-title lang="en">The Coronation of HM the King: The Preparation</sub-title>
+		<desc lang="en">Kirsty Young presents the run-up to the historic occasion from a studio outside Buckingham Palace, where she is joined by a range of guests including friends and colleagues of the royal couple. Throughout the morning, a series of films explore the King&apos;s passions, while across the capital a team of presenters are in key locations to report and commentate on the day as events unfold. JJ Chalmers speaks to the men and women of the armed forces as they take their positions, Anita Rani meets members of the public and Sophie Raworth is outside Westminster Abbey</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/6a411b67-e0ea-5d29-bcf7-f8a3989479a2.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5104998</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>9.9/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230506101500 +0100" stop="20230506130000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">The Coronation of HM the King</title>
+		<sub-title lang="en">The Coronation of HM the King: The Coronation</sub-title>
+		<desc lang="en">Kirsty Young presents live coverage of the historic event as crowds gather to celebrate the Coronation of Charles III and the Queen Consort. Viewers will have a front-row seat of the King&apos;s Procession makes it way through the streets of London, from Buckingham Palace to Westminster Abbey, where Sophie Raworth speaks to guests as they arrive and Huw Edwards provides commentary on the ancient ceremony itself</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/6a411b67-e0ea-5d29-bcf7-f8a3989479a2.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5100187</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>9.9/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230506130000 +0100" stop="20230506150000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">The Coronation of HM the King</title>
+		<sub-title lang="en">The Coronation of HM the King: The Celebration</sub-title>
+		<desc lang="en">The pageantry continues as the newly crowned King Charles and Queen Camilla head back to Buckingham Palace in the Coronation Procession, where they are received at the Mall and make their traditional balcony appearance. Presented by Sophie Raworth, with commentary by Huw Edwards</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/6a411b67-e0ea-5d29-bcf7-f8a3989479a2.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5104997</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>9.9/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230506150000 +0100" stop="20230506151000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC News</title>
+		<sub-title lang="en">06/05/2023 - 1</sub-title>
+		<desc lang="en">A round-up of the latest headlines</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/e0ac0a28-1d1d-526b-a9ba-23d7f5060192.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5099477</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230506151000 +0100" stop="20230506151500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Weather</title>
+		<sub-title lang="en">06/05/2023 - 1</sub-title>
+		<desc lang="en">Preview of the UK&apos;s weather</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/32ff0c68-19c1-5054-a352-c6f7f72b0bbc.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5100197</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230506151500 +0100" stop="20230506164500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Tangled</title>
+		<sub-title lang="en">Movie (2010)</sub-title>
+		<desc lang="en">A baby princess&apos;s hair has mystical powers, so an evil witch kidnaps her and locks her in a tower, hoping to use the magic to fend off old age. When the princess is a teenager with 70-foot long tresses, she escapes with the aid of a bandit and goes in search of her home, but the witch is not going to let her go without a fight. Disney animated comedy based on the Rapunzel story, with the voices of Mandy Moore and Zachary Levi</desc>
+		<date>2010</date>
+		<category lang="en">Movie</category>
+		<category lang="en">Drama</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/2ee949c6-32b4-5810-a1cf-da47ed51b3c0.jpg" />
+		<episode-num system="tvguide.co.uk_progid">1486500</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>7.7/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230506164500 +0100" stop="20230506171500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">The Repair Shop</title>
+		<desc lang="en">Steven Fletcher and Kirsten Ramsay restore a 19th-century clock, George Blackman rebuilds a broken typewriter and Suzie Fletcher repairs a Second World War pilot&apos;s bomber jacket</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/b7505477-661e-5e00-b335-a3beca1bfc90.jpg" />
+		<episode-num system="common">S03E11</episode-num>
+		<episode-num system="tvguide.co.uk_progid">3306620</episode-num>
+		<episode-num system="xmltv_ns">2.10.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230506171500 +0100" stop="20230506181500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Charles R: The Making of a Monarch</title>
+		<desc lang="en">The story of King Charles III&apos;s more than seven decades as heir to the throne, using archive material drawn from newsreels, home movies, interviews and documentaries. He reflects on his formative years from life at home with his family, his singular education, early experiences as a fledgling working royal, his time in the military and the roots of the many passions and causes that have been a feature of his time as Prince of Wales</desc>
+		<category lang="en">Talk</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/82413dbe-0f19-5fb0-bc64-5521669241f5.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5090922</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>9.9/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230506181500 +0100" stop="20230506184500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC News</title>
+		<sub-title lang="en">06/05/2023 - 3</sub-title>
+		<desc lang="en">A round-up of the latest headlines</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/e0ac0a28-1d1d-526b-a9ba-23d7f5060192.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5099478</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230506184500 +0100" stop="20230506185500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC London News; Weather</title>
+		<sub-title lang="en">06/05/2023 - Evening</sub-title>
+		<icon src="https://images.tvguide.co.uk/pa/640/4acbf6e0-62b1-508f-af6d-a08cb2d202cc.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5098589</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230506185500 +0100" stop="20230506190000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Weather</title>
+		<sub-title lang="en">06/05/2023 - 2</sub-title>
+		<desc lang="en">Preview of the UK&apos;s weather</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/32ff0c68-19c1-5054-a352-c6f7f72b0bbc.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5100224</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230506190000 +0100" stop="20230506203000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">The Coronation of HM the King</title>
+		<sub-title lang="en">The Coronation: A Day to Remember</sub-title>
+		<desc lang="en">Live from outside Buckingham Palace, Kirsty Young looks back at choice moments of the King&apos;s Coronation, following the procession to Westminster Abbey, the ceremony and the return journey to Buckingham Palace where the newly crowned monarchs greeted the crowds</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/6a411b67-e0ea-5d29-bcf7-f8a3989479a2.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5100217</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>9.9/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230506203000 +0100" stop="20230506211500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Casualty</title>
+		<sub-title lang="en">Retribution</sub-title>
+		<desc lang="en">Rash&apos;s life hangs in the balance when he is kidnapped, forced into the boot of a car, and brought to an abandoned building by Hafsa&apos;s gang, who want him to save their leader&apos;s life. He does his best to save his patient, only to discover the young man he persuaded to leave the gang now stands accused of betraying them. Dylan agrees to treat a patient with a past drinking problem, and discovers that she is secretly pregnant</desc>
+		<category lang="en">Soap</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/61cd2ec5-8988-5eaa-a4aa-20307c9a42a4.jpg" />
+		<episode-num system="common">S36E13</episode-num>
+		<episode-num system="tvguide.co.uk_progid">13772</episode-num>
+		<episode-num system="xmltv_ns">35.12.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>7.1/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230506211500 +0100" stop="20230506220000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Magpie Murders</title>
+		<desc lang="en">Susan finds herself under increasing pressure from Charles, who tells her that he has approached someone else for the CEO job at Clover Books. Meanwhile, Atticus Pünd is confident that he has at last discovered the identity of the Saxby on Avon murderer</desc>
+		<category lang="en">Drama</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/e224fd17-2f06-546f-a857-c8897d300135.jpg" />
+		<episode-num system="common">S01E06</episode-num>
+		<episode-num system="tvguide.co.uk_progid">5039643</episode-num>
+		<episode-num system="xmltv_ns">0.5.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<premiere />
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230506220000 +0100" stop="20230506222500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC News</title>
+		<sub-title lang="en">06/05/2023 - 3</sub-title>
+		<desc lang="en">A round-up of the latest headlines</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/e0ac0a28-1d1d-526b-a9ba-23d7f5060192.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5099478</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230506222500 +0100" stop="20230506223000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Weather</title>
+		<sub-title lang="en">06/05/2023 - 3</sub-title>
+		<desc lang="en">Preview of the UK&apos;s weather</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/32ff0c68-19c1-5054-a352-c6f7f72b0bbc.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5100225</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230506223000 +0100" stop="20230506234000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Match of the Day</title>
+		<sub-title lang="en">06/05/2023</sub-title>
+		<desc lang="en">Highlights of the latest Premier League matches, including Manchester City v Leeds United at Etihad Stadium and Tottenham Hotspur v Crystal Palace at Tottenham Hotspur Stadium. City will have expected to move closer to another title when they entertained struggling Leeds, while Spurs aimed to get their stuttering top-four bid back on track against Roy Hodgson&apos;s rejuvenated side. Plus, Bournemouth v Chelsea, Liverpool v Brentford and Wolverhampton Wanderers v Aston Villa</desc>
+		<category lang="en">Sports</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/9094834a-f810-585a-be19-e0efd731c4f5.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5100230</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230506234000 +0100" stop="20230507001000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Match of the Day Top 10</title>
+		<sub-title lang="en">MOTD Top 10: Greatest Spanish Premier League Players</sub-title>
+		<desc lang="en">A countdown of the best Spanish players to have played in the Premier League</desc>
+		<category lang="en">Sports</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/660309af-1cea-59f0-983d-4be75b4c79e1.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5062645</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230507001000 +0100" stop="20230507014000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">The Producers</title>
+		<sub-title lang="en">Movie (1968)</sub-title>
+		<desc lang="en">A crooked Broadway producer and his neurotic accountant discover they can make a fortune by putting on a play that closes on opening night, then pocketing the unspent budget. The duo set out to put on the worst show of all time - a tasteless little number called Springtime for Hitler written by a deranged former Nazi. Mel Brooks&apos; comedy, starring Zero Mostel, Gene Wilder and Kenneth Mars</desc>
+		<date>1968</date>
+		<category lang="en">Movie</category>
+		<category lang="en">Comedy</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/476c8513-ffbd-57bf-b11e-94584c2a8b73.jpg" />
+		<episode-num system="tvguide.co.uk_progid">112476</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>7.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230507014000 +0100" stop="20230507014500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Weather for the Week Ahead</title>
+		<sub-title lang="en">06/05/2023</sub-title>
+		<desc lang="en">A look ahead to the latest forecast</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/0531f0df-93fc-5de5-aa7d-4961ec7bdbf7.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5099481</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230507014500 +0100" stop="20230507060000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC News</title>
+		<sub-title lang="en">06/05/2023 - 4</sub-title>
+		<icon src="https://images.tvguide.co.uk/pa/640/281dc9b3-5852-544f-9c05-8c9366d863b2.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5099479</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230507060000 +0100" stop="20230507074500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Breakfast</title>
+		<sub-title lang="en">07/05/2023</sub-title>
+		<desc lang="en">Roger Johnson and Nina Warhurst present a round-up of national and international news, plus current affairs, arts and entertainment, and weather</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/0e3fb33b-2502-5bed-b987-256cebe0ecf7.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5099483</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>2.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230507074500 +0100" stop="20230507090000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Match of the Day</title>
+		<sub-title lang="en">06/05/2023</sub-title>
+		<desc lang="en">Highlights of the latest Premier League matches, including Manchester City v Leeds United at Etihad Stadium and Tottenham Hotspur v Crystal Palace at Tottenham Hotspur Stadium. City will have expected to move closer to another title when they entertained struggling Leeds, while Spurs aimed to get their stuttering top-four bid back on track against Roy Hodgson&apos;s rejuvenated side. Plus, Bournemouth v Chelsea, Liverpool v Brentford and Wolverhampton Wanderers v Aston Villa</desc>
+		<category lang="en">Sports</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/9094834a-f810-585a-be19-e0efd731c4f5.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5100230</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230507090000 +0100" stop="20230507100000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Sunday with Laura Kuenssberg</title>
+		<sub-title lang="en">07/05/2023</sub-title>
+		<desc lang="en">Interviews with key politicians and public figures</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/34380b47-7c31-5385-b6bc-7374302dc05f.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5099500</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230507100000 +0100" stop="20230507103000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Politics London</title>
+		<sub-title lang="en">07/05/2023</sub-title>
+		<desc lang="en">The latest political news and debate from the region</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/02ce8bc6-52fe-5176-ad11-3e69755ac503.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5099505</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230507103000 +0100" stop="20230507120000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Saturday Kitchen Live</title>
+		<sub-title lang="en">Coronation Kitchen Live</sub-title>
+		<desc lang="en">Matt Tebbutt is joined by Jennie Bond and Gyles Brandreth for a special celebratory edition of the show to mark the Coronation of King Charles III. Chefs Adam Byatt and Anna Haugh are also in the studio to rustle up royal recipes, and resident expert Helen McGinn has an array of drinks perfect for any celebration</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/05b757b1-6a45-5871-9afb-f7e7388eefe6.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5105543</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230507120000 +0100" stop="20230507123000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Songs of Praise</title>
+		<sub-title lang="en">A Coronation Celebration</sub-title>
+		<desc lang="en">Katherine Jenkins celebrates the coronation of King Charles III at Hampton Court Palace, and explores how faith and spirituality will shape his reign. Inside The Great Hall, Katherine talks to royal historian Dr Tracy Borman to discover how the echoes of the past still resonate in our monarchy and nations today, while Pam Rhodes visits broadcaster and friend of the King, Jonathan Dimbleby, to find out more about His Majesty&apos;s deep Christian faith and how this will influence his role as monarch</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/263ee2a4-7f44-5b2a-948a-ea24cd6d3470.jpg" />
+		<episode-num system="tvguide.co.uk_progid">46207</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>7.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230507123000 +0100" stop="20230507140500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Coronation: the UK Celebrates - Live</title>
+		<desc lang="en">Reports from around the nation about how people marked the occasion of the crowning of King Charles and Queen Camilla yesterday</desc>
+		<category lang="en">Talk</category>
+		<episode-num system="tvguide.co.uk_progid">5101172</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>9.9/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230507140500 +0100" stop="20230507154500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">The Jungle Book</title>
+		<sub-title lang="en">Movie (2016)</sub-title>
+		<desc lang="en">A boy is raised by animals in the jungles of India, but his carefree life is threatened by the return of a fierce tiger with a grudge against humans. The youngster faces a difficult choice between remaining with his friends or returning to his own people. Live action remake of Disney&apos;s animated adventure based on Rudyard Kipling&apos;s stories, starring Neel Sethi, with the voices of Bill Murray, Ben Kingsley and Idris Elba</desc>
+		<date>2016</date>
+		<category lang="en">Movie</category>
+		<category lang="en">Drama</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/0fe27455-8ada-5c25-8698-bde0a88c97d0.jpg" />
+		<episode-num system="tvguide.co.uk_progid">2443978</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>7.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230507154500 +0100" stop="20230507161500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Wallace &amp; Gromit: A Matter of Loaf and Death</title>
+		<desc lang="en">The duo open their own bakery, Top Bun, and business is soon booming - not least because a `cereal killer&apos; is targeting all the rival bakers in town. Even better, Wallace has caught the eye of local beauty Piella Bakewell. But Gromit is more concerned that his master might become the killer&apos;s next victim. With the voices of Peter Sallis and Sally Lindsay</desc>
+		<category lang="en">Talk</category>
+		<category lang="en">Comedy</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/3b6a9395-eb85-5c83-b51b-ce4575efedee.jpg" />
+		<episode-num system="tvguide.co.uk_progid">1163423</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>9.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230507161500 +0100" stop="20230507171500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Frozen Planet II</title>
+		<sub-title lang="en">Worlds of Wonder</sub-title>
+		<desc lang="en">Highlights from the series, in a journey from the Arctic to the Antarctic. Polar bears meet on the frozen Arctic Ocean, while pack ice in Greenland provides a nursery for baby harp seals. A pack of wolves hunts for bison, a pallas cat struggles to hunt in heavy snow, and golden eagles take on prey much larger than themselves. Weddell seals haul themselves onto the Antarctic ice, while a pod of killer whales develops a strategy for hunting them</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/4894e5e3-8f31-5f3e-9108-27f47a0efe57.jpg" />
+		<episode-num system="tvguide.co.uk_progid">4808925</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>9.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230507171500 +0100" stop="20230507174500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC News</title>
+		<sub-title lang="en">07/05/2023 - 2</sub-title>
+		<desc lang="en">A round-up of the latest headlines</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/e0ac0a28-1d1d-526b-a9ba-23d7f5060192.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5099488</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230507174500 +0100" stop="20230507175500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC London News; Weather</title>
+		<sub-title lang="en">07/05/2023 - Evening</sub-title>
+		<icon src="https://images.tvguide.co.uk/pa/640/4acbf6e0-62b1-508f-af6d-a08cb2d202cc.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5098626</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230507175500 +0100" stop="20230507180000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Weather</title>
+		<sub-title lang="en">07/05/2023</sub-title>
+		<desc lang="en">Preview of the UK&apos;s weather</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/32ff0c68-19c1-5054-a352-c6f7f72b0bbc.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5099490</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230507180000 +0100" stop="20230507190000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Countryfile</title>
+		<sub-title lang="en">A Rural Welcome Revisit</sub-title>
+		<desc lang="en">Matt Baker and Margherita Taylor revisit the New Forest, 10 months on from their first visit, to catch up with the community and families who have come together to help Ukrainian refugees. Since Russia invaded Ukraine back in February 2022, nearly 170,000 people have arrived in the UK, with rural communities across the country giving them a warm welcome. Margherita catches up with a mother and daughter who fled the war zone, to find out how life has been since arriving in rural Hampshire over a year ago, while Matt revisits a group of volunteers who were collecting and packing Humanitarian Aid for Ukraine and Poland, to find out how their operation has changed over the last year</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/e34c8c95-8ccf-5c00-ab2e-3db845673c9a.jpg" />
+		<episode-num system="common">S2023E19</episode-num>
+		<episode-num system="tvguide.co.uk_progid">141652</episode-num>
+		<episode-num system="xmltv_ns">2022.18.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>7.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230507190000 +0100" stop="20230507200000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Antiques Roadshow</title>
+		<sub-title lang="en">Antiques Roadshow: Coronation Special</sub-title>
+		<desc lang="en">To mark to coronation of King Charles, this special edition of the show goes back through the archives to celebrate items with a royal connection. Fiona Bruce is intrigued by a collection of coronation souvenirs from the past that have been preserved in the Museum of Brands, and ceramics expert Serhat Ahmet offers tips on the most collectable coronation keepsakes</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/7437296b-9282-509d-aac8-66d829b11174.jpg" />
+		<episode-num system="tvguide.co.uk_progid">114041</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>7.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230507200000 +0100" stop="20230507220000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">The Coronation Concert</title>
+		<desc lang="en">Coverage of the Coronation Concert from the East Lawn of Windsor Castle, staged in front of 20,000 members of the public and invited guests. Featuring performances from Take That, Katy Perry, Lionel Richie, Andrea Bocelli, Bryn Terfel, Freya Ridings and a 70-piece orchestra as well as unique visual moments such as the country joining together as its most iconic landmarks are illuminated by drones and lasers in Lighting Up the Nation and Gareth Malone&apos;s 300-voice Coronation Choir singing for the King and Queen. Kirsty Young hears from the performers in a specially built studio within the castle grounds, and backstage, Clara Amfo and Jordan Banjo grab chats with others involved</desc>
+		<category lang="en">Talk</category>
+		<category lang="en">Music</category>
+		<episode-num system="tvguide.co.uk_progid">5101256</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>9.9/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230507220000 +0100" stop="20230507222500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC News; Weather</title>
+		<sub-title lang="en">07/05/2023</sub-title>
+		<icon src="https://images.tvguide.co.uk/pa/640/51091bc8-fc4e-5918-b2e5-cb9758944873.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5099493</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>3.7/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230507222500 +0100" stop="20230507223000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC London News; Weather</title>
+		<sub-title lang="en">07/05/2023 - Late</sub-title>
+		<icon src="https://images.tvguide.co.uk/pa/640/4acbf6e0-62b1-508f-af6d-a08cb2d202cc.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5098663</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230507223000 +0100" stop="20230507233000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Match of the Day 2</title>
+		<sub-title lang="en">07/05/2023</sub-title>
+		<desc lang="en">Mark Chapman reviews the day&apos;s Premier League action, featuring Newcastle United v Arsenal at St James&apos; Park and West Ham United v Manchester United at London Stadium. The Gunners and Magpies shared the spoils at St James&apos; Park in January, but both teams were in need of three points this time around. Meanwhile, the Red Devils faced a test of their top-four credentials against a West Ham side that had shown signs of improvement in recent weeks. Plus, a round-up of yesterday&apos;s goals</desc>
+		<category lang="en">Sports</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/6837afb2-7946-5d61-a051-5a8afbd1d0be.jpg" />
+		<episode-num system="tvguide.co.uk_progid">631195</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.1/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230507233000 +0100" stop="20230508002000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">The Women&apos;s Football Show</title>
+		<sub-title lang="en">07/05/2023</sub-title>
+		<desc lang="en">Highlights of the weekend&apos;s games in the Super League, including Manchester United v Tottenham Hotspur, Liverpool v Manchester City and Chelsea v Everton</desc>
+		<category lang="en">Sports</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/59e398fa-ed9d-502e-9f0a-dd78baf2c93f.jpg" />
+		<episode-num system="tvguide.co.uk_progid">1789162</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>3.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230508002000 +0100" stop="20230508015000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">The Turning</title>
+		<sub-title lang="en">Movie (2020)</sub-title>
+		<desc lang="en">A young governess is hired to look after an orphaned girl, but the return of the girl&apos;s problematic brother uncovers secrets from their past. Horror inspired by Henry James&apos; novella The Turn of the Screw, starring Mackenzie Davis, Finn Wolfhard and Joely Richardson</desc>
+		<date>2020</date>
+		<category lang="en">Movie</category>
+		<category lang="en">Horror</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/3538b935-8d3d-540e-a3da-451c6245e39d.jpg" />
+		<episode-num system="tvguide.co.uk_progid">4742930</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>3.9/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230508015000 +0100" stop="20230508015500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Weather for the Week Ahead</title>
+		<sub-title lang="en">07/05/2023 - 2</sub-title>
+		<desc lang="en">A look ahead to the latest forecast</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/0531f0df-93fc-5de5-aa7d-4961ec7bdbf7.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5099494</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230508015500 +0100" stop="20230508060000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC News</title>
+		<sub-title lang="en">07/05/2023 - 3</sub-title>
+		<icon src="https://images.tvguide.co.uk/pa/640/281dc9b3-5852-544f-9c05-8c9366d863b2.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5099497</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230508060000 +0100" stop="20230508091500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Breakfast</title>
+		<sub-title lang="en">08/05/2023</sub-title>
+		<desc lang="en">Jon Kay and Sally Nugent present a round-up of national and international news, plus current affairs, arts and entertainment, and weather</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/0e3fb33b-2502-5bed-b987-256cebe0ecf7.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5099537</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>2.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230508091500 +0100" stop="20230508100000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Morning Live</title>
+		<sub-title lang="en">08/05/2023</sub-title>
+		<desc lang="en">Weekday magazine show featuring a mixture of topical chat and expert advice</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/92028e48-0554-57fc-8cf6-871ffcd95a2f.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5099540</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>3.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230508100000 +0100" stop="20230508104500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Scam Interceptors</title>
+		<desc lang="en">Rav Wilding joins forces with ethical hackers to hunt down cyber criminals. Using the same remote-access technology that criminals use to scam their victims, the team hacks the hackers and monitors their operation</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/eb3afb18-bac5-59f0-9ded-56d63a7e811c.jpg" />
+		<episode-num system="common">S02E07</episode-num>
+		<episode-num system="tvguide.co.uk_progid">4580156</episode-num>
+		<episode-num system="xmltv_ns">1.6.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>7.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230508104500 +0100" stop="20230508111500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Maximum Security</title>
+		<desc lang="en">Dom Littlewood rides shotgun to a train driver, fulfilling a childhood dream to find out how the railways are kept safe. Jenny Donaldson has advice on distraction burglaries</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/6081d239-eac7-591f-918a-d95213bb50c6.jpg" />
+		<episode-num system="common">S01E07</episode-num>
+		<episode-num system="tvguide.co.uk_progid">4781846</episode-num>
+		<episode-num system="xmltv_ns">0.6.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230508111500 +0100" stop="20230508121500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Homes Under the Hammer</title>
+		<desc lang="en">A couple of semis in Lower Gornal in the West Midlands and Gillingham in Kent are all sold under the hammer, as is a large commercial building in Ebbw Vale in south-east Wales. Martin Roberts, Dion Dublin and Martel Maxwell follow progress as the developers get to work</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/2bd8bf68-940b-51b8-99bc-61961f65d23f.jpg" />
+		<episode-num system="common">S24E36</episode-num>
+		<episode-num system="tvguide.co.uk_progid">533529</episode-num>
+		<episode-num system="xmltv_ns">23.35.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>4.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230508121500 +0100" stop="20230508130000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Bargain Hunt</title>
+		<sub-title lang="en">Dorking 15</sub-title>
+		<desc lang="en">Caroline Hawley and Ochuko Ojiri help two teams search for items in the antiques shops of Dorking, Surrey, while presenter Eric Knowles learns how stained glass windows are restored and repaired</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/c46580d2-c636-5130-8af9-820e08b5f1c1.jpg" />
+		<episode-num system="common">S56E16</episode-num>
+		<episode-num system="tvguide.co.uk_progid">10126</episode-num>
+		<episode-num system="xmltv_ns">55.15.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>3.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230508130000 +0100" stop="20230508132000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC News at One; Weather</title>
+		<sub-title lang="en">08/05/2023</sub-title>
+		<desc lang="en">A round-up of the latest headlines</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/c8241e9a-e74b-5c87-9e72-27441b564c5e.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5099543</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20230508132000 +0100" stop="20230508133000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC London News; Weather</title>
+		<sub-title lang="en">08/05/2023 - Lunch</sub-title>
+		<icon src="https://images.tvguide.co.uk/pa/640/4acbf6e0-62b1-508f-af6d-a08cb2d202cc.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5098727</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230508133000 +0100" stop="20230508140000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Doctors</title>
+		<sub-title lang="en">The Gift Horse</sub-title>
+		<desc lang="en">Nina unveils her plan to save the Beechwalk, Al clashes with Kirsty, and Sid meets a taxi driver who is struggling to reconnect with his son</desc>
+		<category lang="en">Soap</category>
+		<icon src="https://images.tvguide.co.uk/pa/640/c5d7f11e-def7-5e84-bd74-f79e2241dae9.jpg" />
+		<episode-num system="common">S24E59</episode-num>
+		<episode-num system="tvguide.co.uk_progid">5099452</episode-num>
+		<episode-num system="xmltv_ns">23.58.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>2.9/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230508140000 +0100" stop="20230508144500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Countryfile Spring Diaries</title>
+		<sub-title lang="en">Countryfile Diaries</sub-title>
+		<desc lang="en">Margherita Taylor sees the injuries that plastic litter can cause to British sea life, and Paul Martin shares tips to keep viewers&apos; summer pots in flower all season long</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/d5c4d732-a51e-5125-aa9f-99bcbae7c662.jpg" />
+		<episode-num system="common">S04E02</episode-num>
+		<episode-num system="tvguide.co.uk_progid">2366712</episode-num>
+		<episode-num system="xmltv_ns">3.1.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>8.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230508144500 +0100" stop="20230508154500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Escape to the Country</title>
+		<sub-title lang="en">East Midlands</sub-title>
+		<desc lang="en">Ginny Buckley helps three generations of one family who want to move to the East Midlands, with mum and grandma weighing up the properties that have been uncovered. Away from houses, Ginny meets a volunteer group helping to restore the area&apos;s local canals and their footpaths so that wildlife can thrive and the public can enjoy a safer stroll</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/4e0a604b-a7a2-5205-887d-0a876833ef69.jpg" />
+		<episode-num system="common">S22E06</episode-num>
+		<episode-num system="tvguide.co.uk_progid">2866739</episode-num>
+		<episode-num system="xmltv_ns">21.5.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>5.9/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230508154500 +0100" stop="20230508163000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">The Bidding Room</title>
+		<desc lang="en">Nigel Havers welcomes five more sellers to the Bidding Room, where they try to sell items to five professional dealers who are on the lookout for interesting pieces, with help from expert Simon Bower. Here, the dealers bid against each other on a vintage pub game, a small and mysterious statue and an apothecary set complete with tiny weights</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/3e05cb75-0c47-5bbb-8271-dfefad34671f.jpg" />
+		<episode-num system="common">S02E19</episode-num>
+		<episode-num system="tvguide.co.uk_progid">3702525</episode-num>
+		<episode-num system="xmltv_ns">1.18.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>4.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230508163000 +0100" stop="20230508171500 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Unbeatable</title>
+		<desc lang="en">Over three rounds, contestants vie to find the single `unbeatable&apos; answer and streak ahead of the rest to make the final where they can win a cash prize. General knowledge quiz, hosted by Jason Manford</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/a08910e7-56c1-57db-bd65-93df7d40b7f0.jpg" />
+		<episode-num system="common">S03E27</episode-num>
+		<episode-num system="tvguide.co.uk_progid">4160524</episode-num>
+		<episode-num system="xmltv_ns">2.26.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>3.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230508171500 +0100" stop="20230508180000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Pointless</title>
+		<desc lang="en">Sally Lindsay joins Alexander Armstrong to co-host the quiz, in which contestants try to score the fewest points possible by giving the most obscure answers</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/ec37bcf4-30fd-5ae9-a806-b36f3521aba3.jpg" />
+		<episode-num system="common">S28E02</episode-num>
+		<episode-num system="tvguide.co.uk_progid">1259078</episode-num>
+		<episode-num system="xmltv_ns">27.1.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230508180000 +0100" stop="20230508182000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC News at Six; Weather</title>
+		<sub-title lang="en">08/05/2023</sub-title>
+		<desc lang="en">The latest headlines</desc>
+		<icon src="https://images.tvguide.co.uk/pa/640/c10d0d61-fd16-5000-b4d0-0e1ebcd038a6.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5099547</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20230508182000 +0100" stop="20230508183000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">BBC London News; Weather</title>
+		<sub-title lang="en">08/05/2023 - Evening</sub-title>
+		<icon src="https://images.tvguide.co.uk/pa/640/4acbf6e0-62b1-508f-af6d-a08cb2d202cc.jpg" />
+		<episode-num system="tvguide.co.uk_progid">5098728</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20230508183000 +0100" stop="20230508193000 +0100" channel="I101.2366.tvguide.co.uk">
+		<title lang="en">Eurovision Welcomes The World</title>
+		<desc lang="en">Rylan and Sunetra Sarker kick off Eurovision with highlights from this year&apos;s Turquoise Carpet welcome event, as the performers arrive in Liverpool. Semi-final hosts Alesha Dixon, Hannah Waddingham and Julia Sanina gear up for their presenting debut together and Rylan spends time backstage to see all of the final Eurovision preparations. The show also features highlights from Liverpool&apos;s Big Eurovision Welcome event taking place outside St George&apos;s Hall, presented by AJ Odudu and Joel Dommett, where Frankie Goes to Hollywood will be on stage together for the first time in more than 30 years. Ukrainian Eurovision winner Jamala duets with British artist Birdy on a Beatles classic, and there is a special performance of Rise like a Phoenix by Conchita, accompanied by a dramatic drone display. Special guests Ricky Tomlinson and Shirley Ballas pay tribute to their home city and international pop star Zara Larsson join icons of dance music Cream Classical to close the show</desc>
+		<category lang="en">Talk</category>
+		<category lang="en">Music</category>
+		<episode-num system="tvguide.co.uk_progid">5101294</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<subtitles type="teletext" />
+		<star-rating>
+			<value>9.0/10</value>
+		</star-rating>
+	</programme>
+</tv>
