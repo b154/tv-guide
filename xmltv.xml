@@ -8,7 +8,7 @@
 		<display-name>Optus Sport 1</display-name>
 	</channel>
 
-	<programme start="20230501150000 +0100" stop="20230502144500 +0100" channel="OptusSport1.au">
+	<programme start="20230502183000" stop="20230502200000" channel="OptusSport1.au">
 		<title lang="en">Premier League Live</title>
 		<sub-title lang="en">Everton vs Leicester City</sub-title>
 		<desc lang="en">Action from Goodison Park as Everton take on Leicester City in a huge game at the bottom of the table.</desc>
