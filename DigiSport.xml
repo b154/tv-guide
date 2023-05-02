@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Digi Sport 1">
+    <display-name lang="ro">Digi Sport 1</display-name>
+    <url>http://www.digiromania.ro</url>
+  </channel>
+  <channel id="Digi Sport 2">
+    <display-name lang="ro">Digi Sport 2</display-name>
+    <url>http://www.digiromania.ro</url>
+  </channel>
+  <channel id="Digi Sport 3">
+    <display-name lang="ro">Digi Sport 3</display-name>
+    <url>http://www.digiromania.ro</url>
+  </channel>
+  <programme start="20230502060000 +0300" stop="20230502070000 +0300" channel="Digi Sport 1">
+    <title lang="ro">Fotbal Club</title>
+  </programme>
+  <programme start="20230502070000 +0300" stop="20230502073000 +0300" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502073000 +0300" stop="20230502080000 +0300" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502080000 +0300" stop="20230502083000 +0300" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502083000 +0300" stop="20230502090000 +0300" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502090000 +0300" stop="20230502093000 +0300" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502093000 +0300" stop="20230502100000 +0300" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502100000 +0300" stop="20230502101500 +0300" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502101500 +0300" stop="20230502110000 +0300" channel="Digi Sport 1">
+    <title lang="ro">Fotbal Club</title>
+  </programme>
+  <programme start="20230502110000 +0300" stop="20230502111500 +0300" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502111500 +0300" stop="20230502120000 +0300" channel="Digi Sport 1">
+    <title lang="ro">Liga Digi Sport</title>
+  </programme>
+  <programme start="20230502120000 +0300" stop="20230502121500 +0300" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502121500 +0300" stop="20230502130000 +0300" channel="Digi Sport 1">
+    <title lang="ro">Fotbal Club</title>
+  </programme>
+  <programme start="20230502130000 +0300" stop="20230502131500 +0300" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502131500 +0300" stop="20230502140000 +0300" channel="Digi Sport 1">
+    <title lang="ro">Fotbal Club</title>
+  </programme>
+  <programme start="20230502140000 +0300" stop="20230502141500 +0300" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502141500 +0300" stop="20230502150000 +0300" channel="Digi Sport 1">
+    <title lang="ro">Rezumatele etapei: Superliga Play-off&amp;sol;Play-Out</title>
+  </programme>
+  <programme start="20230502150000 +0300" stop="20230502153000 +0300" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502153000 +0300" stop="20230502170000 +0300" channel="Digi Sport 1">
+    <title lang="ro">Liga Digi Sport</title>
+  </programme>
+  <programme start="20230502170000 +0300" stop="20230502173000 +0300" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502173000 +0300" stop="20230502181500 +0300" channel="Digi Sport 1">
+    <title lang="ro">Liga 2 Play-Off: Politehnica Iasi - Otelul Galati</title>
+  </programme>
+  <programme start="20230502181500 +0300" stop="20230502183000 +0300" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502183000 +0300" stop="20230502193000 +0300" channel="Digi Sport 1">
+    <title lang="ro">Liga 2 Play-Off: Politehnica Iasi - Otelul Galati</title>
+  </programme>
+  <programme start="20230502193000 +0300" stop="20230502200000 +0300" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502200000 +0300" stop="20230502204500 +0300" channel="Digi Sport 1">
+    <title lang="ro">Superliga Play-Out: UTA Arad - Hermannstadt</title>
+  </programme>
+  <programme start="20230502204500 +0300" stop="20230502210000 +0300" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502210000 +0300" stop="20230502220000 +0300" channel="Digi Sport 1">
+    <title lang="ro">Superliga Play-Out: UTA Arad - Hermannstadt</title>
+  </programme>
+  <programme start="20230502220000 +0300" stop="20230502224500 +0300" channel="Digi Sport 1">
+    <title lang="ro">Premier League: Arsenal - Chelsea</title>
+  </programme>
+  <programme start="20230502224500 +0300" stop="20230502230000 +0300" channel="Digi Sport 1">
+    <title lang="ro">Fotbal European</title>
+  </programme>
+  <programme start="20230502230000 +0300" stop="20230503000000 +0300" channel="Digi Sport 1">
+    <title lang="ro">Premier League: Arsenal - Chelsea</title>
+  </programme>
+  <programme start="20230502070000 +0300" stop="20230502090000 +0300" channel="Digi Sport 2">
+    <title lang="ro">Tenis WTA Madrid</title>
+  </programme>
+  <programme start="20230502090000 +0300" stop="20230502110000 +0300" channel="Digi Sport 2">
+    <title lang="ro">Tenis WTA Madrid</title>
+  </programme>
+  <programme start="20230502110000 +0300" stop="20230502120000 +0300" channel="Digi Sport 2">
+    <title lang="ro">Tenis WTA Madrid</title>
+  </programme>
+  <programme start="20230502120000 +0300" stop="20230502140000 +0300" channel="Digi Sport 2">
+    <title lang="ro">Tenis WTA Madrid. Monica Niculescu &amp;lpar;ROU&amp;rpar;&amp;sol;Makoto Ninomiya &amp;lpar;JPN&amp;rpar; - Elena-Gabriela Ruse &amp;lpar;ROU&amp;rpar;&amp;sol;Marta Kostyuk &amp;lpar;UKR&amp;rpar;</title>
+  </programme>
+  <programme start="20230502140000 +0300" stop="20230502160000 +0300" channel="Digi Sport 2">
+    <title lang="ro">Tenis WTA Madrid - sferturi. Mayar Sherif &amp;lpar;EGY - Aryna Sabalenka &amp;lpar;BLR&amp;rpar;</title>
+  </programme>
+  <programme start="20230502160000 +0300" stop="20230502163000 +0300" channel="Digi Sport 2">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502163000 +0300" stop="20230502173000 +0300" channel="Digi Sport 2">
+    <title lang="ro">Rezumat La Liga 2</title>
+  </programme>
+  <programme start="20230502173000 +0300" stop="20230502181500 +0300" channel="Digi Sport 2">
+    <title lang="ro">Rezumat Serie A</title>
+  </programme>
+  <programme start="20230502181500 +0300" stop="20230502191500 +0300" channel="Digi Sport 2">
+    <title lang="ro">Rezumat La Liga, etapa 32</title>
+  </programme>
+  <programme start="20230502191500 +0300" stop="20230502210000 +0300" channel="Digi Sport 2">
+    <title lang="ro">WTA Madrid: Irina-Camelia Begu &amp;lpar;ROU&amp;rpar; - Liudmila Samsonova &amp;lpar;RUS&amp;rpar;</title>
+  </programme>
+  <programme start="20230502210000 +0300" stop="20230502230000 +0300" channel="Digi Sport 2">
+    <title lang="ro">WTA Madrid: Irina-Camelia Begu &amp;lpar;ROU&amp;rpar; - Maria Sakkari &amp;lpar;GRE&amp;rpar;</title>
+  </programme>
+  <programme start="20230502230000 +0300" stop="20230503010000 +0300" channel="Digi Sport 2">
+    <title lang="ro">La Liga: Real Sociedad - Real Madrid</title>
+  </programme>
+  <programme start="20230502060000 +0300" stop="20230502063000 +0300" channel="Digi Sport 3">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502063000 +0300" stop="20230502070000 +0300" channel="Digi Sport 3">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502070000 +0300" stop="20230502071500 +0300" channel="Digi Sport 3">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20230502071500 +0300" stop="20230502073000 +0300" channel="Digi Sport 3">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20230502073000 +0300" stop="20230502074500 +0300" channel="Digi Sport 3">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20230502074500 +0300" stop="20230502080000 +0300" channel="Digi Sport 3">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20230502080000 +0300" stop="20230502081500 +0300" channel="Digi Sport 3">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20230502081500 +0300" stop="20230502083000 +0300" channel="Digi Sport 3">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20230502083000 +0300" stop="20230502084500 +0300" channel="Digi Sport 3">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20230502084500 +0300" stop="20230502090000 +0300" channel="Digi Sport 3">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20230502090000 +0300" stop="20230502091500 +0300" channel="Digi Sport 3">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20230502091500 +0300" stop="20230502093000 +0300" channel="Digi Sport 3">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20230502093000 +0300" stop="20230502094500 +0300" channel="Digi Sport 3">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20230502094500 +0300" stop="20230502100000 +0300" channel="Digi Sport 3">
+    <title lang="ro">Gimnastica de dimineata</title>
+  </programme>
+  <programme start="20230502100000 +0300" stop="20230502101500 +0300" channel="Digi Sport 3">
+    <title lang="ro">Digi Sport Show</title>
+  </programme>
+  <programme start="20230502101500 +0300" stop="20230502110000 +0300" channel="Digi Sport 3">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502110000 +0300" stop="20230502111500 +0300" channel="Digi Sport 3">
+    <title lang="ro">Digi Sport Show</title>
+  </programme>
+  <programme start="20230502111500 +0300" stop="20230502120000 +0300" channel="Digi Sport 3">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502120000 +0300" stop="20230502121500 +0300" channel="Digi Sport 3">
+    <title lang="ro">Digi Sport Show</title>
+  </programme>
+  <programme start="20230502121500 +0300" stop="20230502130000 +0300" channel="Digi Sport 3">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502130000 +0300" stop="20230502131500 +0300" channel="Digi Sport 3">
+    <title lang="ro">Digi Sport Show</title>
+  </programme>
+  <programme start="20230502131500 +0300" stop="20230502140000 +0300" channel="Digi Sport 3">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502140000 +0300" stop="20230502141500 +0300" channel="Digi Sport 3">
+    <title lang="ro">Digi Sport Show</title>
+  </programme>
+  <programme start="20230502141500 +0300" stop="20230502150000 +0300" channel="Digi Sport 3">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502150000 +0300" stop="20230502153000 +0300" channel="Digi Sport 3">
+    <title lang="ro">UCL Magazin</title>
+  </programme>
+  <programme start="20230502153000 +0300" stop="20230502160000 +0300" channel="Digi Sport 3">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502160000 +0300" stop="20230502163000 +0300" channel="Digi Sport 3">
+    <title lang="ro">Premier League: The Big Interview</title>
+  </programme>
+  <programme start="20230502163000 +0300" stop="20230502170000 +0300" channel="Digi Sport 3">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502170000 +0300" stop="20230502184500 +0300" channel="Digi Sport 3">
+    <title lang="ro">Futsal Liga 1 Play-Off &amp;lpar;semif</title>
+  </programme>
+  <programme start="20230502184500 +0300" stop="20230502193000 +0300" channel="Digi Sport 3">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502193000 +0300" stop="20230502200000 +0300" channel="Digi Sport 3">
+    <title lang="ro">UCL Magazin</title>
+  </programme>
+  <programme start="20230502200000 +0300" stop="20230502201500 +0300" channel="Digi Sport 3">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502201500 +0300" stop="20230502203000 +0300" channel="Digi Sport 3">
+    <title lang="ro">Digi Sport Show</title>
+  </programme>
+  <programme start="20230502203000 +0300" stop="20230502230000 +0300" channel="Digi Sport 3">
+    <title lang="ro">Barcelona - Osasuna &amp;lpar;La Liga Etp.33&amp;rpar;</title>
+  </programme>
+  <programme start="20230502230000 +0300" stop="20230502234500 +0300" channel="Digi Sport 3">
+    <title lang="ro">Stirile Digi Sport</title>
+  </programme>
+  <programme start="20230502234500 +0300" stop="20230503000000 +0300" channel="Digi Sport 3">
+    <title lang="ro">Digi Sport Show</title>
+  </programme>
+</tv>
