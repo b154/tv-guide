@@ -2,37 +2,37 @@
     <display-name>Digi Sport 1</display-name>
   </channel>
 
-<programme start="20230502220000" stop="20230503190000" channel="Digi Sport 1">
+<programme start="20230502220000 +0100" stop="20230503200000 +0100" channel="Digi Sport 1">
 		<title lang="en">No Information</title>
 		<sub-title lang="en">Digi Sport 1</sub-title>
 		<desc lang="en">Guide information only provided for live football games (Top European Leagues Only)</desc>
 </programme>
 
-<programme start="20230503190000" stop="20230503210000" channel="Digi Sport 1">
+<programme start="20230503200000 +0100" stop="20230503220000 +0100" channel="Digi Sport 1">
 		<title lang="en">Premier League Live</title>
 		<sub-title lang="en">Manchester City vs West Ham</sub-title>
 		<desc lang="en">Action from Etihad Stadium as Manchester City take on West Ham United in the Premier League</desc>
 </programme>
 
-<programme start="20230503220000 +010000" stop="20230504200000 +010000" channel="Digi Sport 1">
+<programme start="20230503220000 +0100" stop="20230504200000 +0100" channel="Digi Sport 1">
 		<title lang="en">No Information</title>
 		<sub-title lang="en">Digi Sport 1</sub-title>
 		<desc lang="en">Guide information only provided for live football games (Top European Leagues Only)</desc>
 </programme>
 
-<programme start="20230504200000 +010000" stop="20230503220000 +010000" channel="Digi Sport 1">
+<programme start="20230504200000 +0100" stop="20230503220000 +0100" channel="Digi Sport 1">
 		<title lang="en">Premier League Live</title>
 		<sub-title lang="en">Brighton vs Manchester United</sub-title>
 		<desc lang="en">Action from AMEX Stadium as Brighton take on Manchester United in the Premier League</desc>
 </programme>
 
-<programme start="20230504220000 +010000" stop="20230506170000 +010000" channel="Digi Sport 1">
+<programme start="20230504220000 +0100" stop="20230506170000 +0100" channel="Digi Sport 1">
 		<title lang="en">No Information</title>
 		<sub-title lang="en">Digi Sport 1</sub-title>
 		<desc lang="en">Guide information only provided for live football games (Top European Leagues Only)</desc>
 </programme>
 
-<programme start="20230506170000 +010000" stop="20230506190000 +010000" channel="Digi Sport 1">
+<programme start="20230506170000 +0100" stop="20230506190000 +0100" channel="Digi Sport 1">
 		<title lang="en">Serie A Live</title>
 		<sub-title lang="en">Roma vs Inter Milan</sub-title>
 		<desc lang="en">Action from Stadio Olimpico as Roma take on Inter Milan in Serie A</desc>
