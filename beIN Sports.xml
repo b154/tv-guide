@@ -4,9 +4,9 @@
 <tv>
 <channel update="i" xmltv_id="beINSports1English" id="beINSports1English">beIN Sports 1 English HD</channel>
 
-<programme start="20230506120000" stop="20230506130000" channel="beINSports1English">
-		<title lang="en">No Information</title>
-		<sub-title lang="en">beIN Sports 1 English</sub-title>
+<programme start="20230506130000" stop="20230506160000" channel="beINSports1English">
+		<title lang="en">Premier League Live</title>
+		<sub-title lang="en">Manchester City vs Leeds United</sub-title>
 		<desc lang="en">Guide information only provided for live football games (Top European Leagues Only)</desc>
 </programme>
 
