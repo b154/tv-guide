@@ -9,4 +9,12 @@
 		<sub-title lang="en">beIN Sports 1 English</sub-title>
 		<desc lang="en">Guide information only provided for live football games (Top European Leagues Only)</desc>
 </programme>
+
+<channel update="i" xmltv_id="beINSports2English" id="beINSports2English">beIN Sports 2 English HD</channel>
+
+<programme start="20230506120000" stop="20230506130000" channel="beINSports2English">
+		<title lang="en">Live Serie A</title>
+		<sub-title lang="en">beIN Sports 2 English</sub-title>
+		<desc lang="en">Guide information only provided for live football games (Top European Leagues Only)</desc>
+</programme>
 </tv>
