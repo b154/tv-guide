@@ -1,7 +1,7 @@
 <?php
 // List your stream URLs here, in priority order.
 $streams = [
-    'https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel%28skynews%29/index_1080-30.m3u8',
+    'https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8',
     'https://backup-stream-url.com/stream.m3u8',
 ];
 
